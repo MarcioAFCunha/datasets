@@ -1,0 +1,52 @@
+[
+    {
+        "context": "PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR(A) DO TRIBUNAL DE JUSTIÇA. ERRO GROSSEIRO. DESCABIMENTO., 1. Não cabe agravo de instrumento dirigido ao STJ contra decisão monocrática proferida por desembargador(a) do TJ, uma vez que foi não exaurida a jurisdição das instâncias ordinárias. Inexistindo dúvida objetiva quanto ao recurso adequado à espécie, é inaplicável a fungibilidade recursal. 2. Nos termos do art. 1.027, § 1º, do CPC/2015, cumprirá ao Superior Tribunal de Justiça o julgamento de agravo de instrumento contra decisões interlocutórias relativas aos processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País, o que não ocorre no caso. 3. Agravo interno a que se nega provimento.",
+        "queries": [
+            {
+                "question": "Qual é o tribunal mencionado no contexto que não pode receber agravo de instrumento contra decisão monocrática de desembargador(a) do TJ?",
+                "answers": "Superior Tribunal de Justiça (STJ)"
+            },
+            {
+                "question": "Por que não cabe agravo de instrumento dirigido ao STJ contra decisão monocrática proferida por desembargador(a) do TJ?",
+                "answers": "Porque não foi exaurida a jurisdição das instâncias ordinárias."
+            },
+            {
+                "question": "O que torna inaplicável a fungibilidade recursal no contexto mencionado?",
+                "answers": "A inexistência de dúvida objetiva quanto ao recurso adequado à espécie."
+            },
+            {
+                "question": "De acordo com o art. 1.027, § 1º, do CPC/2015, em quais casos o STJ julgará agravo de instrumento contra decisões interlocutórias?",
+                "answers": "Nos processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País."
+            },
+            {
+                "question": "Qual foi a decisão final sobre o agravo interno mencionado no contexto?",
+                "answers": "Agravo interno a que se nega provimento."
+            }
+        ]
+    },
+    {
+        "context": "AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DA INAFASTABILIDADE DE JURISDIÇÃO, DA DIGNIDADE DA PESSOA HUMANA, DA LEGALIDADE E DA PROPRIEDADE. TEMA 895/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. DESPROVIMENTO DO RECLAMO., 1. A alegada violação aos princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral. 2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência deste Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral. 3. Agravo interno não provido.",
+        "queries": [
+            {
+                "question": "Qual é a natureza da alegada violação aos princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade?",
+                "answers": "A alegada violação tem natureza infraconstitucional."
+            },
+            {
+                "question": "A alegada violação aos princípios mencionados possui repercussão geral?",
+                "answers": "Não, a alegada violação não possui repercussão geral."
+            },
+            {
+                "question": "Qual é o tema do STF relacionado à ausência de repercussão geral no contexto fornecido?",
+                "answers": "O tema do STF relacionado à ausência de repercussão geral é o Tema 181/STF."
+            },
+            {
+                "question": "O agravo interno foi provido ou não provido?",
+                "answers": "O agravo interno não foi provido."
+            },
+            {
+                "question": "Qual é o tema do STF relacionado ao preenchimento dos pressupostos de admissibilidade recursal?",
+                "answers": "O tema do STF relacionado ao preenchimento dos pressupostos de admissibilidade recursal é o Tema 895/STF."
+            }
+        ]
+    }
+]

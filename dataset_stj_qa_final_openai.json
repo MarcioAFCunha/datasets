@@ -1,0 +1,52 @@
+[
+    {
+        "context": "PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR(A) DO TRIBUNAL DE JUSTIÇA. ERRO GROSSEIRO. DESCABIMENTO. 1. Não cabe agravo de instrumento dirigido ao STJ contra decisão monocrática proferida por desembargador(a) do TJ, uma vez que foi não exaurida a jurisdição das instâncias ordinárias. Inexistindo dúvida objetiva quanto ao recurso adequado à espécie, é inaplicável a fungibilidade recursal. 2. Nos termos do art. 1.027, § 1º, do CPC/2015, cumprirá ao Superior Tribunal de Justiça o julgamento de agravo de instrumento contra decisões interlocutórias relativas aos processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País, o que não ocorre no caso. 3. Agravo interno a que se nega provimento.",
+        "queries": [
+            {
+                "question": "Qual tribunal não pode receber agravo de instrumento contra decisão monocrática de desembargador(a) do TJ?",
+                "answers": "Não cabe agravo de instrumento dirigido ao STJ contra decisão monocrática proferida por desembargador(a) do TJ."
+            },
+            {
+                "question": "Por que não cabe agravo de instrumento ao STJ contra decisão monocrática de desembargador(a) do TJ?",
+                "answers": "Porque não foi exaurida a jurisdição das instâncias ordinárias."
+            },
+            {
+                "question": "Quando é inaplicável a fungibilidade recursal?",
+                "answers": "Inexistindo dúvida objetiva quanto ao recurso adequado à espécie, é inaplicável a fungibilidade recursal."
+            },
+            {
+                "question": "Em que situações o STJ julga agravo de instrumento contra decisões interlocutórias?",
+                "answers": "Nos termos do art. 1.027, § 1º, do CPC/2015, o STJ julga agravo de instrumento contra decisões interlocutórias relativas aos processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País."
+            },
+            {
+                "question": "Qual foi o resultado do agravo interno mencionado no contexto?",
+                "answers": "Agravo interno a que se nega provimento."
+            }
+        ]
+    },
+    {
+        "context": "AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DA INAFASTABILIDADE DE JURISDIÇÃO, DA DIGNIDADE DA PESSOA HUMANA, DA LEGALIDADE E DA PROPRIEDADE. TEMA 895/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. DESPROVIMENTO DO RECLAMO. 1. A alegada violação aos princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral. 2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência deste Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral. 3. Agravo interno não provido.",
+        "queries": [
+            {
+                "question": "Qual é o tema do agravo interno mencionado no contexto?",
+                "answers": "Tema 895/STF."
+            },
+            {
+                "question": "Quais princípios são alegadamente violados no recurso extraordinário?",
+                "answers": "Os princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade."
+            },
+            {
+                "question": "Por que a alegada violação aos princípios mencionados tem natureza infraconstitucional?",
+                "answers": "Porque implica ofensa indireta à Constituição Federal ou análise de matéria fática."
+            },
+            {
+                "question": "O que foi decidido sobre a repercussão geral no contexto do agravo interno?",
+                "answers": "Foi decidido que não há repercussão geral."
+            },
+            {
+                "question": "Qual foi o resultado do agravo interno?",
+                "answers": "Agravo interno não provido."
+            }
+        ]
+    }
+]
