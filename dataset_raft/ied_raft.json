@@ -1,0 +1,734 @@
+[
+    {
+        "id": "qa_001",
+        "type": "direito",
+        "question": "Qual é o conceito de direito segundo Radbruch?",
+        "context": {
+            "sentences": [
+                ["Não há um consenso sobre o conceito do direito."],
+                ["A esse respeito divergem juristas, filósofos e sociólogos, desde tempos remotos."],
+                ["Deixando de lado as várias escolas e correntes existentes, apontamos como ideal, pela concisão e clareza, a definição de Radbruch, citada por Washington de Barros Monteiro, segundo a qual direito 'é o conjunto das normas gerais e positivas, que regulam a vida social'."]
+            ],
+            "title": ["conceito_de_direito", "definição_de_radbruch", "normas_gerais"]
+        },
+        "oracle_context": "Deixando de lado as várias escolas e correntes existentes, apontamos como ideal, pela concisão e clareza, a definição de Radbruch, citada por Washington de Barros Monteiro, segundo a qual direito 'é o conjunto das normas gerais e positivas, que regulam a vida social'.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito segundo Radbruch. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Deixando de lado as várias escolas e correntes existentes, apontamos como ideal, pela concisão e clareza, a definição de Radbruch, citada por Washington de Barros Monteiro, segundo a qual direito 'é o conjunto das normas gerais e positivas, que regulam a vida social'.\"\n##end_quote##\n\nPortanto, segundo Radbruch, direito é o conjunto das normas gerais e positivas, que regulam a vida social.\n\n<RESPOSTA>: Segundo Radbruch, direito é o conjunto das normas gerais e positivas, que regulam a vida social.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o conceito de direito segundo Radbruch? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_002",
+        "type": "direito",
+        "question": "Qual é a distinção entre direito e moral quanto à sanção?",
+        "context": {
+            "sentences": [
+                ["As normas jurídicas e morais têm em comum o fato de constituírem regras de comportamento."],
+                ["No entanto, distinguem-se precipuamente pela sanção (que no direito é imposta pelo Estado para constranger os indivíduos à observância da norma, e na moral somente pela consciência do homem, traduzida pelo remorso, pelo arrependimento, porém sem coerção) e pelo campo de ação, que na moral é mais amplo."]
+            ],
+            "title": ["distinção_direito_moral", "sanção_direito", "sanção_moral"]
+        },
+        "oracle_context": "No entanto, distinguem-se precipuamente pela sanção (que no direito é imposta pelo Estado para constranger os indivíduos à observância da norma, e na moral somente pela consciência do homem, traduzida pelo remorso, pelo arrependimento, porém sem coerção) e pelo campo de ação, que na moral é mais amplo.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a distinção entre direito e moral quanto à sanção. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No entanto, distinguem-se precipuamente pela sanção (que no direito é imposta pelo Estado para constranger os indivíduos à observância da norma, e na moral somente pela consciência do homem, traduzida pelo remorso, pelo arrependimento, porém sem coerção) e pelo campo de ação, que na moral é mais amplo.\"\n##end_quote##\n\nPortanto, a distinção entre direito e moral quanto à sanção é que, no direito, a sanção é imposta pelo Estado, enquanto na moral é imposta pela consciência do indivíduo, sem coerção.\n\n<RESPOSTA>: A distinção entre direito e moral quanto à sanção é que, no direito, a sanção é imposta pelo Estado, enquanto na moral é imposta pela consciência do indivíduo, sem coerção.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a distinção entre direito e moral quanto à sanção? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_003",
+        "type": "direito",
+        "question": "Qual é a definição de direito positivo?",
+        "context": {
+            "sentences": [
+                ["Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum)."],
+                ["Direito natural é a ideia abstrata do direito, o ordenamento ideal, correspondente a uma justiça superior e suprema."]
+            ],
+            "title": ["definição_direito_positivo", "definição_direito_natural"]
+        },
+        "oracle_context": "Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum).",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito positivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum).\"\n##end_quote##\n\nPortanto, direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época.\n\n<RESPOSTA>: Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito positivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_004",
+        "type": "direito",
+        "question": "Como se distingue direito objetivo de direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção."],
+                ["Esse conjunto de regras jurídicas comportamentais (norma agendi) gera para os indivíduos a faculdade de satisfazer determinadas pretensões e de praticar os atos destinados a alcançar tais objetivos (facultas agendi)."],
+                ["Encarado sob esse aspecto, denomina-se direito subjetivo, que nada mais é do que a faculdade individual de agir de acordo com o direito objetivo, de invocar a sua proteção."]
+            ],
+            "title": ["direito_objetivo", "direito_subjetivo", "definição_direito"]
+        },
+        "oracle_context": "Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção. Esse conjunto de regras jurídicas comportamentais (norma agendi) gera para os indivíduos a faculdade de satisfazer determinadas pretensões e de praticar os atos destinados a alcançar tais objetivos (facultas agendi). Encarado sob esse aspecto, denomina-se direito subjetivo, que nada mais é do que a faculdade individual de agir de acordo com o direito objetivo, de invocar a sua proteção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a distinção entre direito objetivo e direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção. Esse conjunto de regras jurídicas comportamentais (norma agendi) gera para os indivíduos a faculdade de satisfazer determinadas pretensões e de praticar os atos destinados a alcançar tais objetivos (facultas agendi). Encarado sob esse aspecto, denomina-se direito subjetivo, que nada mais é do que a faculdade individual de agir de acordo com o direito objetivo, de invocar a sua proteção.\"\n##end_quote##\n\nPortanto, direito objetivo é o conjunto de normas impostas pelo Estado, enquanto direito subjetivo é a faculdade individual de agir de acordo com essas normas e invocar sua proteção.\n\n<RESPOSTA>: Direito objetivo é o conjunto de normas impostas pelo Estado, enquanto direito subjetivo é a faculdade individual de agir de acordo com essas normas e invocar sua proteção.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como se distingue direito objetivo de direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_005",
+        "type": "direito",
+        "question": "Quais são as características das normas de direito objetivo?",
+        "context": {
+            "sentences": [
+                ["Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção."],
+                ["Esse conjunto de regras jurídicas comportamentais (norma agendi) gera para os indivíduos a faculdade de satisfazer determinadas pretensões e de praticar os atos destinados a alcançar tais objetivos (facultas agendi)."]
+            ],
+            "title": ["características_direito_objetivo", "normas_jurídicas"]
+        },
+        "oracle_context": "Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender as características das normas de direito objetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito objetivo é o conjunto de normas impostas pelo Estado, de caráter geral, a cuja inobservância os indivíduos podem ser compelidos mediante coerção.\"\n##end_quote##\n\nPortanto, as características das normas de direito objetivo são: serem impostas pelo Estado, terem caráter geral, e poderem ser coercitivamente aplicadas aos indivíduos.\n\n<RESPOSTA>: As características das normas de direito objetivo são: serem impostas pelo Estado, terem caráter geral, e poderem ser coercitivamente aplicadas aos indivíduos.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as características das normas de direito objetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_006",
+        "type": "direito",
+        "question": "Qual é a principal diferença entre a regra moral e a regra jurídica?",
+        "context": {
+            "sentences": [
+                ["A principal diferença entre a regra moral e a regra jurídica repousa efetivamente na sanção."],
+                ["Pode-se afirmar que direito e moral distinguem-se, ainda, pelo fato de o primeiro atuar no foro exterior, ensejando medidas repressivas do aparelho estatal quando violado, e a segunda no foro íntimo das pessoas, encontrando reprovação na sua consciência."]
+            ],
+            "title": ["diferença_regra_moral", "diferença_regra_jurídica"]
+        },
+        "oracle_context": "A principal diferença entre a regra moral e a regra jurídica repousa efetivamente na sanção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a principal diferença entre a regra moral e a regra jurídica. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A principal diferença entre a regra moral e a regra jurídica repousa efetivamente na sanção.\"\n##end_quote##\n\nPortanto, a principal diferença entre a regra moral e a regra jurídica é que a sanção da regra jurídica é imposta pelo Estado, enquanto a sanção da regra moral é imposta pela consciência do indivíduo.\n\n<RESPOSTA>: A principal diferença entre a regra moral e a regra jurídica é que a sanção da regra jurídica é imposta pelo Estado, enquanto a sanção da regra moral é imposta pela consciência do indivíduo.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a principal diferença entre a regra moral e a regra jurídica? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_007",
+        "type": "direito",
+        "question": "Como se originou a palavra 'direito'?",
+        "context": {
+            "sentences": [
+                ["Origina-se a palavra 'direito' do latim directum, significando aquilo que é reto, que está de acordo com a lei."],
+                ["Os jurisconsultos romanos já relacionavam o direito com o que é justo."]
+            ],
+            "title": ["origem_palavra_direito", "significado_direito"]
+        },
+        "oracle_context": "Origina-se a palavra 'direito' do latim directum, significando aquilo que é reto, que está de acordo com a lei.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a origem da palavra 'direito'. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Origina-se a palavra 'direito' do latim directum, significando aquilo que é reto, que está de acordo com a lei.\"\n##end_quote##\n\nPortanto, a palavra 'direito' origina-se do latim directum, que significa aquilo que é reto, que está de acordo com a lei.\n\n<RESPOSTA>: A palavra 'direito' origina-se do latim directum, que significa aquilo que é reto, que está de acordo com a lei.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como se originou a palavra 'direito'? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_008",
+        "type": "direito",
+        "question": "O que é direito natural?",
+        "context": {
+            "sentences": [
+                ["Direito natural é a ideia abstrata do direito, o ordenamento ideal, correspondente a uma justiça superior e suprema."],
+                ["O direito positivo, em outras palavras, é o 'conjunto de princípios que pautam a vida social de determinado povo em determinada época', sendo nesta acepção que nos referimos ao direito romano, ao direito inglês, ao direito alemão, ao direito brasileiro etc., não importando seja escrito ou não escrito, de elaboração sistemática ou de formação jurisprudencial."]
+            ],
+            "title": ["definição_direito_natural", "definição_direito_positivo"]
+        },
+        "oracle_context": "Direito natural é a ideia abstrata do direito, o ordenamento ideal, correspondente a uma justiça superior e suprema.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o que é direito natural. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito natural é a ideia abstrata do direito, o ordenamento ideal, correspondente a uma justiça superior e suprema.\"\n##end_quote##\n\nPortanto, direito natural é a ideia abstrata do direito, um ordenamento ideal que corresponde a uma justiça superior e suprema.\n\n<RESPOSTA>: Direito natural é a ideia abstrata do direito, um ordenamento ideal que corresponde a uma justiça superior e suprema.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é direito natural? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_009",
+        "type": "direito",
+        "question": "Quais são os componentes do direito objetivo segundo Silvio Rodrigues?",
+        "context": {
+            "sentences": [
+                ["Silvio Rodrigues, com precisão, esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.'"],
+                ["Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi."]
+            ],
+            "title": ["componentes_direito_objetivo", "componentes_direito_subjetivo"]
+        },
+        "oracle_context": "Silvio Rodrigues, com precisão, esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.'",
+        "cot_answer": "Para responder à pergunta, precisamos entender os componentes do direito objetivo segundo Silvio Rodrigues. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Silvio Rodrigues, com precisão, esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.'\"\n##end_quote##\n\nPortanto, os componentes do direito objetivo segundo Silvio Rodrigues são: conjunto de normas que a todos se dirige e a todos vincula, e norma da ação humana (norma agendi).\n\n<RESPOSTA>: Os componentes do direito objetivo segundo Silvio Rodrigues são: conjunto de normas que a todos se dirige e a todos vincula, e norma da ação humana (norma agendi).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os componentes do direito objetivo segundo Silvio Rodrigues? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_010",
+        "type": "direito",
+        "question": "Qual é a relação entre direito e justiça segundo Aristóteles?",
+        "context": {
+            "sentences": [
+                ["Os jurisconsultos romanos já relacionavam o direito com o que é justo."],
+                ["Da necessidade da justiça nas relações humanas é que nasce o direito."],
+                ["De outra parte, a criação do direito não tem outro objetivo senão a realização da justiça."],
+                ["No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade."]
+            ],
+            "title": ["relação_direito_justiça", "ensino_aristóteles", "filosofia_escolástica"]
+        },
+        "oracle_context": "No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a relação entre direito e justiça segundo Aristóteles. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade.\"\n##end_quote##\n\nPortanto, segundo Aristóteles, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.\n\n<RESPOSTA>: Segundo Aristóteles, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre direito e justiça segundo Aristóteles? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_011",
+        "type": "direito",
+        "question": "Quais são as teorias que negam a existência do direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["As teorias de Duguit e de Kelsen (Teoria Pura do Direito) integram as doutrinas negativistas, que não admitem a existência do direito subjetivo."],
+                ["Para Kelsen, a obrigação jurídica não é senão a própria norma jurídica."],
+                ["Sendo assim, o direito subjetivo não é senão o direito objetivo."]
+            ],
+            "title": ["teorias_negativistas", "duguit", "kelsen"]
+        },
+        "oracle_context": "As teorias de Duguit e de Kelsen (Teoria Pura do Direito) integram as doutrinas negativistas, que não admitem a existência do direito subjetivo.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são as teorias que negam a existência do direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"As teorias de Duguit e de Kelsen (Teoria Pura do Direito) integram as doutrinas negativistas, que não admitem a existência do direito subjetivo.\"\n##end_quote##\n\nPortanto, as teorias que negam a existência do direito subjetivo são as de Duguit e Kelsen, que integram as doutrinas negativistas.\n\n<RESPOSTA>: As teorias que negam a existência do direito subjetivo são as de Duguit e Kelsen, que integram as doutrinas negativistas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as teorias que negam a existência do direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_012",
+        "type": "direito",
+        "question": "Qual é a definição de direito subjetivo segundo Francisco Amaral?",
+        "context": {
+            "sentences": [
+                ["Direito subjetivo é 'o poder que a ordem jurídica confere a alguém de agir e de exigir de outrem determinado comportamento'."],
+                ["É, portanto, o meio de satisfazer interesses humanos e deriva do direito objetivo, nascendo com ele."]
+            ],
+            "title": ["definição_direito_subjetivo", "francisco_amaral"]
+        },
+        "oracle_context": "Direito subjetivo é 'o poder que a ordem jurídica confere a alguém de agir e de exigir de outrem determinado comportamento'.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito subjetivo segundo Francisco Amaral. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito subjetivo é 'o poder que a ordem jurídica confere a alguém de agir e de exigir de outrem determinado comportamento'.\"\n##end_quote##\n\nPortanto, segundo Francisco Amaral, direito subjetivo é o poder que a ordem jurídica confere a alguém de agir e de exigir de outrem determinado comportamento.\n\n<RESPOSTA>: Segundo Francisco Amaral, direito subjetivo é o poder que a ordem jurídica confere a alguém de agir e de exigir de outrem determinado comportamento.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito subjetivo segundo Francisco Amaral? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_013",
+        "type": "direito",
+        "question": "O que afirma a teoria da vontade sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica."],
+                ["O Estado somente intervém quando estritamente necessário."],
+                ["Nesse caso, o titular do direito é o único juiz da conveniência de sua utilização."]
+            ],
+            "title": ["teoria_da_vontade", "direito_subjetivo"]
+        },
+        "oracle_context": "Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o que afirma a teoria da vontade sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.\"\n##end_quote##\n\nPortanto, a teoria da vontade afirma que o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.\n\n<RESPOSTA>: A teoria da vontade afirma que o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: O que afirma a teoria da vontade sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_014",
+        "type": "direito",
+        "question": "Quais são os principais ramos do direito privado?",
+        "context": {
+            "sentences": [
+                ["Integram, hoje, o direito privado: o direito civil, o direito comercial, o direito agrário, o direito marítimo, bem como o direito do trabalho, o direito do consumidor e o direito aeronáutico."]
+            ],
+            "title": ["ramos_direito_privado"]
+        },
+        "oracle_context": "Integram, hoje, o direito privado: o direito civil, o direito comercial, o direito agrário, o direito marítimo, bem como o direito do trabalho, o direito do consumidor e o direito aeronáutico.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os principais ramos do direito privado. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Integram, hoje, o direito privado: o direito civil, o direito comercial, o direito agrário, o direito marítimo, bem como o direito do trabalho, o direito do consumidor e o direito aeronáutico.\"\n##end_quote##\n\nPortanto, os principais ramos do direito privado são: direito civil, direito comercial, direito agrário, direito marítimo, direito do trabalho, direito do consumidor e direito aeronáutico.\n\n<RESPOSTA>: Os principais ramos do direito privado são: direito civil, direito comercial, direito agrário, direito marítimo, direito do trabalho, direito do consumidor e direito aeronáutico.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os principais ramos do direito privado? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_015",
+        "type": "direito",
+        "question": "Quais são os princípios que orientam a distinção entre direito público e direito privado segundo Ulpiano?",
+        "context": {
+            "sentences": [
+                ["Direito público é o que corresponde às coisas do Estado; direito privado, o que pertence à utilidade das pessoas."]
+            ],
+            "title": ["distinção_direito_público_privado", "princípios_ulpiano"]
+        },
+        "oracle_context": "Direito público é o que corresponde às coisas do Estado; direito privado, o que pertence à utilidade das pessoas.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os princípios que orientam a distinção entre direito público e direito privado segundo Ulpiano. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito público é o que corresponde às coisas do Estado; direito privado, o que pertence à utilidade das pessoas.\"\n##end_quote##\n\nPortanto, segundo Ulpiano, direito público é o que corresponde às coisas do Estado, enquanto direito privado é o que pertence à utilidade das pessoas.\n\n<RESPOSTA>: Segundo Ulpiano, direito público é o que corresponde às coisas do Estado, enquanto direito privado é o que pertence à utilidade das pessoas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os princípios que orientam a distinção entre direito público e direito privado segundo Ulpiano? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_016",
+        "type": "direito",
+        "question": "Qual é a crítica ao critério de utilidade para distinguir direito público de direito privado?",
+        "context": {
+            "sentences": [
+                ["Malgrado o direito público vise proteger os interesses da sociedade e o direito privado busque assegurar, integralmente, a satisfação dos interesses individuais, tal critério se mostra insuficiente."],
+                ["Não se pode, com efeito, dissociar o interesse público do interesse privado, como se fossem antagônicos, mesmo porque, na maioria das vezes, torna-se difícil distinguir o interesse protegido."]
+            ],
+            "title": ["crítica_utilidade", "distinção_direito_público_privado"]
+        },
+        "oracle_context": "Malgrado o direito público vise proteger os interesses da sociedade e o direito privado busque assegurar, integralmente, a satisfação dos interesses individuais, tal critério se mostra insuficiente. Não se pode, com efeito, dissociar o interesse público do interesse privado, como se fossem antagônicos, mesmo porque, na maioria das vezes, torna-se difícil distinguir o interesse protegido.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a crítica ao critério de utilidade para distinguir direito público de direito privado. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Malgrado o direito público vise proteger os interesses da sociedade e o direito privado busque assegurar, integralmente, a satisfação dos interesses individuais, tal critério se mostra insuficiente. Não se pode, com efeito, dissociar o interesse público do interesse privado, como se fossem antagônicos, mesmo porque, na maioria das vezes, torna-se difícil distinguir o interesse protegido.\"\n##end_quote##\n\nPortanto, a crítica ao critério de utilidade é que ele é insuficiente, pois não se pode dissociar o interesse público do interesse privado, como se fossem antagônicos, e muitas vezes é difícil distinguir o interesse protegido.\n\n<RESPOSTA>: A crítica ao critério de utilidade é que ele é insuficiente, pois não se pode dissociar o interesse público do interesse privado, como se fossem antagônicos, e muitas vezes é difícil distinguir o interesse protegido.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a crítica ao critério de utilidade para distinguir direito público de direito privado? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_017",
+        "type": "direito",
+        "question": "Qual é o critério finalístico para distinguir direito público de direito privado?",
+        "context": {
+            "sentences": [
+                ["O critério finalístico assenta-se no interesse jurídico tutelado."],
+                ["Assim, são de direito público as normas em que predomina o interesse geral; e de direito privado as que visam atender imediatamente o interesse dos indivíduos."]
+            ],
+            "title": ["critério_finalístico", "distinção_direito_público_privado"]
+        },
+        "oracle_context": "O critério finalístico assenta-se no interesse jurídico tutelado. Assim, são de direito público as normas em que predomina o interesse geral; e de direito privado as que visam atender imediatamente o interesse dos indivíduos.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o critério finalístico para distinguir direito público de direito privado. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O critério finalístico assenta-se no interesse jurídico tutelado. Assim, são de direito público as normas em que predomina o interesse geral; e de direito privado as que visam atender imediatamente o interesse dos indivíduos.\"\n##end_quote##\n\nPortanto, o critério finalístico para distinguir direito público de direito privado é baseado no interesse jurídico tutelado: direito público predomina o interesse geral, e direito privado visa atender o interesse dos indivíduos.\n\n<RESPOSTA>: O critério finalístico para distinguir direito público de direito privado é baseado no interesse jurídico tutelado: direito público predomina o interesse geral, e direito privado visa atender o interesse dos indivíduos.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o critério finalístico para distinguir direito público de direito privado? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_018",
+        "type": "direito",
+        "question": "Qual é a definição de normas de ordem pública e normas de ordem privada?",
+        "context": {
+            "sentences": [
+                ["Normas de ordem pública são as cogentes, de aplicação obrigatória."],
+                ["São as que se impõem de modo absoluto, não sendo possível a sua derrogação pela vontade das partes."],
+                ["Normas de ordem privada são as que vigoram enquanto a vontade dos interessados não convencionar de forma diversa, tendo, pois, caráter supletivo."]
+            ],
+            "title": ["definição_normas_ordem_pública", "definição_normas_ordem_privada"]
+        },
+        "oracle_context": "Normas de ordem pública são as cogentes, de aplicação obrigatória. São as que se impõem de modo absoluto, não sendo possível a sua derrogação pela vontade das partes. Normas de ordem privada são as que vigoram enquanto a vontade dos interessados não convencionar de forma diversa, tendo, pois, caráter supletivo.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de normas de ordem pública e normas de ordem privada. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Normas de ordem pública são as cogentes, de aplicação obrigatória. São as que se impõem de modo absoluto, não sendo possível a sua derrogação pela vontade das partes. Normas de ordem privada são as que vigoram enquanto a vontade dos interessados não convencionar de forma diversa, tendo, pois, caráter supletivo.\"\n##end_quote##\n\nPortanto, normas de ordem pública são cogentes e de aplicação obrigatória, enquanto normas de ordem privada vigoram enquanto a vontade dos interessados não convencionar de forma diversa e têm caráter supletivo.\n\n<RESPOSTA>: Normas de ordem pública são cogentes e de aplicação obrigatória, enquanto normas de ordem privada vigoram enquanto a vontade dos interessados não convencionar de forma diversa e têm caráter supletivo.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de normas de ordem pública e normas de ordem privada? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_019",
+        "type": "direito",
+        "question": "Qual é a tendência moderna quanto à unificação do direito privado?",
+        "context": {
+            "sentences": [
+                ["Desde o final do século XIX se observa uma tendência para unificar o direito privado e, assim, disciplinar conjunta e uniformemente o direito civil e o direito comercial."]
+            ],
+            "title": ["tendência_unificação_direito_privado"]
+        },
+        "oracle_context": "Desde o final do século XIX se observa uma tendência para unificar o direito privado e, assim, disciplinar conjunta e uniformemente o direito civil e o direito comercial.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a tendência moderna quanto à unificação do direito privado. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Desde o final do século XIX se observa uma tendência para unificar o direito privado e, assim, disciplinar conjunta e uniformemente o direito civil e o direito comercial.\"\n##end_quote##\n\nPortanto, a tendência moderna é para unificar o direito privado, disciplinando conjuntamente e uniformemente o direito civil e o direito comercial.\n\n<RESPOSTA>: A tendência moderna é para unificar o direito privado, disciplinando conjuntamente e uniformemente o direito civil e o direito comercial.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a tendência moderna quanto à unificação do direito privado? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_020",
+        "type": "direito",
+        "question": "Qual é o conceito de direito segundo Caio Mário da Silva Pereira?",
+        "context": {
+            "sentences": [
+                ["Para Caio Mário da Silva Pereira, que prefere deixar de lado as concepções dos historicistas, dos normativistas, dos finalistas e dos sociólogos do direito, que não conseguiram fornecer uma definição satisfatória, o direito 'é o princípio de adequação do homem à vida social. Está na lei, como exteriorização do comando do Estado; integra-se na consciência do indivíduo que pauta sua conduta pelo espiritualismo do seu elevado grau de moralidade; está no anseio de justiça, como ideal eterno do homem; está imanente na necessidade de contenção para a coexistência'."]
+            ],
+            "title": ["conceito_direito_caio_mário"]
+        },
+        "oracle_context": "Para Caio Mário da Silva Pereira, que prefere deixar de lado as concepções dos historicistas, dos normativistas, dos finalistas e dos sociólogos do direito, que não conseguiram fornecer uma definição satisfatória, o direito 'é o princípio de adequação do homem à vida social. Está na lei, como exteriorização do comando do Estado; integra-se na consciência do indivíduo que pauta sua conduta pelo espiritualismo do seu elevado grau de moralidade; está no anseio de justiça, como ideal eterno do homem; está imanente na necessidade de contenção para a coexistência'.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o conceito de direito segundo Caio Mário da Silva Pereira. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Para Caio Mário da Silva Pereira, que prefere deixar de lado as concepções dos historicistas, dos normativistas, dos finalistas e dos sociólogos do direito, que não conseguiram fornecer uma definição satisfatória, o direito 'é o princípio de adequação do homem à vida social. Está na lei, como exteriorização do comando do Estado; integra-se na consciência do indivíduo que pauta sua conduta pelo espiritualismo do seu elevado grau de moralidade; está no anseio de justiça, como ideal eterno do homem; está imanente na necessidade de contenção para a coexistência'.\"\n##end_quote##\n\nPortanto, segundo Caio Mário da Silva Pereira, direito é o princípio de adequação do homem à vida social, está na lei como comando do Estado, integra-se na consciência do indivíduo pela moralidade, e está no anseio de justiça e necessidade de contenção para a coexistência.\n\n<RESPOSTA>: Segundo Caio Mário da Silva Pereira, direito é o princípio de adequação do homem à vida social, está na lei como comando do Estado, integra-se na consciência do indivíduo pela moralidade, e está no anseio de justiça e necessidade de contenção para a coexistência.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o conceito de direito segundo Caio Mário da Silva Pereira? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_021",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas morais que se converteram em normas jurídicas?",
+        "context": {
+            "sentences": [
+                ["Podem ser lembrados, a título de exemplos, o art. 17 da Lei de Introdução ao Código Civil (atual Lei de Introdução às Normas do Direito Brasileiro, conforme estabelecido na Lei n. 12.376, de 30-12-2010) e os arts. 557, 1.638 e 1.735, V, todos do Código Civil."],
+                ["Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc."]
+            ],
+            "title": ["exemplos_normas_morais_jurídicas", "tendência_normas_morais_jurídicas"]
+        },
+        "oracle_context": "Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas morais que se converteram em normas jurídicas. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc.\"\n##end_quote##\n\nPortanto, exemplos de normas morais que se converteram em normas jurídicas são: o dever do pai de velar pelo filho, a indenização por acidente do trabalho, a indenização por despedimento do empregado, e a obrigação de dar aviso prévio ao empregado.\n\n<RESPOSTA>: Exemplos de normas morais que se converteram em normas jurídicas são: o dever do pai de velar pelo filho, a indenização por acidente do trabalho, a indenização por despedimento do empregado, e a obrigação de dar aviso prévio ao empregado.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas morais que se converteram em normas jurídicas? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_022",
+        "type": "direito",
+        "question": "Qual é o conceito de direito natural segundo Hugo Grócio?",
+        "context": {
+            "sentences": [
+                ["Hugo Grócio, já no século XVI, defendia a existência de um direito ideal e eterno, ao lado do direito positivo, sendo considerado o fundador da nova Escola de Direito Natural."]
+            ],
+            "title": ["conceito_direito_natural", "hugo_grócio"]
+        },
+        "oracle_context": "Hugo Grócio, já no século XVI, defendia a existência de um direito ideal e eterno, ao lado do direito positivo, sendo considerado o fundador da nova Escola de Direito Natural.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o conceito de direito natural segundo Hugo Grócio. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Hugo Grócio, já no século XVI, defendia a existência de um direito ideal e eterno, ao lado do direito positivo, sendo considerado o fundador da nova Escola de Direito Natural.\"\n##end_quote##\n\nPortanto, segundo Hugo Grócio, direito natural é um direito ideal e eterno, que existe ao lado do direito positivo.\n\n<RESPOSTA>: Segundo Hugo Grócio, direito natural é um direito ideal e eterno, que existe ao lado do direito positivo.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o conceito de direito natural segundo Hugo Grócio? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_023",
+        "type": "direito",
+        "question": "Qual é a crítica à teoria da vontade sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["Todavia, há direitos em que não existe uma vontade real do seu titular."],
+                ["Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico."]
+            ],
+            "title": ["crítica_teoria_vontade", "direito_subjetivo"]
+        },
+        "oracle_context": "Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a crítica à teoria da vontade sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.\"\n##end_quote##\n\nPortanto, a crítica à teoria da vontade é que existem direitos subjetivos onde não há uma vontade real do titular, como no caso dos incapazes que podem herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.\n\n<RESPOSTA>: A crítica à teoria da vontade é que existem direitos subjetivos onde não há uma vontade real do titular, como no caso dos incapazes que podem herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a crítica à teoria da vontade sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_024",
+        "type": "direito",
+        "question": "Quais são os direitos subjetivos dos incapazes?",
+        "context": {
+            "sentences": [
+                ["Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico."]
+            ],
+            "title": ["direitos_subjetivos_incapazes"]
+        },
+        "oracle_context": "Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os direitos subjetivos dos incapazes. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.\"\n##end_quote##\n\nPortanto, os direitos subjetivos dos incapazes incluem a possibilidade de herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.\n\n<RESPOSTA>: Os direitos subjetivos dos incapazes incluem a possibilidade de herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os direitos subjetivos dos incapazes? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_025",
+        "type": "direito",
+        "question": "Qual é a teoria mista sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse."],
+                ["Jellinek o define como o interesse protegido que a vontade tem o poder de realizar."]
+            ],
+            "title": ["teoria_mista_direito_subjetivo"]
+        },
+        "oracle_context": "A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a teoria mista sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse.\"\n##end_quote##\n\nPortanto, a teoria mista sobre o direito subjetivo conjuga o elemento vontade com o elemento interesse.\n\n<RESPOSTA>: A teoria mista sobre o direito subjetivo conjuga o elemento vontade com o elemento interesse.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a teoria mista sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_026",
+        "type": "direito",
+        "question": "Quais são as críticas à teoria mista sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["Consistindo na reunião dos elementos básicos das duas teorias anteriormente mencionadas, a vontade e o interesse, merecem também as mesmas críticas."]
+            ],
+            "title": ["críticas_teoria_mista", "direito_subjetivo"]
+        },
+        "oracle_context": "Consistindo na reunião dos elementos básicos das duas teorias anteriormente mencionadas, a vontade e o interesse, merecem também as mesmas críticas.",
+        "cot_answer": "Para responder à pergunta, precisamos entender as críticas à teoria mista sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Consistindo na reunião dos elementos básicos das duas teorias anteriormente mencionadas, a vontade e o interesse, merecem também as mesmas críticas.\"\n##end_quote##\n\nPortanto, as críticas à teoria mista são que ela reúne os elementos básicos das teorias da vontade e do interesse, e assim, merecem as mesmas críticas dirigidas a essas teorias.\n\n<RESPOSTA>: As críticas à teoria mista são que ela reúne os elementos básicos das teorias da vontade e do interesse, e assim, merecem as mesmas críticas dirigidas a essas teorias.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as críticas à teoria mista sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_027",
+        "type": "direito",
+        "question": "Qual é a definição de direito subjetivo segundo a teoria do interesse?",
+        "context": {
+            "sentences": [
+                ["Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido."]
+            ],
+            "title": ["definição_direito_subjetivo_teoria_interesse"]
+        },
+        "oracle_context": "Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito subjetivo segundo a teoria do interesse. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido.\"\n##end_quote##\n\nPortanto, segundo a teoria do interesse, direito subjetivo é o interesse juridicamente protegido.\n\n<RESPOSTA>: Segundo a teoria do interesse, direito subjetivo é o interesse juridicamente protegido.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito subjetivo segundo a teoria do interesse? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_028",
+        "type": "direito",
+        "question": "Quais são os principais ramos do direito público?",
+        "context": {
+            "sentences": [
+                ["Pertencem ao direito público, por outro lado, o direito constitucional, o direito administrativo, o direito tributário, o direito penal, o direito processual (civil e penal), o direito internacional (público e privado) e o direito ambiental."]
+            ],
+            "title": ["ramos_direito_público"]
+        },
+        "oracle_context": "Pertencem ao direito público, por outro lado, o direito constitucional, o direito administrativo, o direito tributário, o direito penal, o direito processual (civil e penal), o direito internacional (público e privado) e o direito ambiental.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os principais ramos do direito público. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Pertencem ao direito público, por outro lado, o direito constitucional, o direito administrativo, o direito tributário, o direito penal, o direito processual (civil e penal), o direito internacional (público e privado) e o direito ambiental.\"\n##end_quote##\n\nPortanto, os principais ramos do direito público são: direito constitucional, direito administrativo, direito tributário, direito penal, direito processual (civil e penal), direito internacional (público e privado) e direito ambiental.\n\n<RESPOSTA>: Os principais ramos do direito público são: direito constitucional, direito administrativo, direito tributário, direito penal, direito processual (civil e penal), direito internacional (público e privado) e direito ambiental.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os principais ramos do direito público? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_029",
+        "type": "direito",
+        "question": "Quais são as normas que predominam no direito civil?",
+        "context": {
+            "sentences": [
+                ["No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais."]
+            ],
+            "title": ["normas_direito_civil"]
+        },
+        "oracle_context": "No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são as normas que predominam no direito civil. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais.\"\n##end_quote##\n\nPortanto, no direito civil predominam as normas de ordem privada, embora também existam normas imperativas de ordem pública, especialmente no direito de família, sucessões e direitos reais.\n\n<RESPOSTA>: No direito civil predominam as normas de ordem privada, embora também existam normas imperativas de ordem pública, especialmente no direito de família, sucessões e direitos reais.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as normas que predominam no direito civil? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_030",
+        "type": "direito",
+        "question": "Quais são as críticas à teoria do interesse sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo."]
+            ],
+            "title": ["críticas_teoria_interesse", "direito_subjetivo"]
+        },
+        "oracle_context": "A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo.",
+        "cot_answer": "Para responder à pergunta, precisamos entender as críticas à teoria do interesse sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo.\"\n##end_quote##\n\nPortanto, as críticas à teoria do interesse sobre o direito subjetivo são que ela confunde o direito subjetivo com o seu conteúdo.\n\n<RESPOSTA>: As críticas à teoria do interesse sobre o direito subjetivo são que ela confunde o direito subjetivo com o seu conteúdo.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as críticas à teoria do interesse sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_031",
+        "type": "direito",
+        "question": "O que é direito subjetivo segundo Jellinek?",
+        "context": {
+            "sentences": [
+                ["Jellinek define direito subjetivo como 'interesse protegido que a vontade tem o poder de realizar'."]
+            ],
+            "title": ["definição_direito_subjetivo_jellinek"]
+        },
+        "oracle_context": "Jellinek define direito subjetivo como 'interesse protegido que a vontade tem o poder de realizar'.",
+        "cot_answer": "Para responder à pergunta, precisamos entender o que é direito subjetivo segundo Jellinek. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Jellinek define direito subjetivo como 'interesse protegido que a vontade tem o poder de realizar'.\"\n##end_quote##\n\nPortanto, segundo Jellinek, direito subjetivo é o interesse protegido que a vontade tem o poder de realizar.\n\n<RESPOSTA>: Segundo Jellinek, direito subjetivo é o interesse protegido que a vontade tem o poder de realizar.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é direito subjetivo segundo Jellinek? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_032",
+        "type": "direito",
+        "question": "Qual é a distinção entre direito objetivo e direito subjetivo segundo Silvio Rodrigues?",
+        "context": {
+            "sentences": [
+                ["Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.'"],
+                ["Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi."]
+            ],
+            "title": ["distinção_direito_objetivo_subjetivo", "silvio_rodrigues"]
+        },
+        "oracle_context": "Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.' Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a distinção entre direito objetivo e direito subjetivo segundo Silvio Rodrigues. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.' Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi.\"\n##end_quote##\n\nPortanto, segundo Silvio Rodrigues, direito objetivo é o conjunto de normas que a todos se dirige e a todos vincula (norma agendi), enquanto direito subjetivo é a faculdade conferida ao indivíduo de invocar a norma em seu favor (facultas agendi).\n\n<RESPOSTA>: Segundo Silvio Rodrigues, direito objetivo é o conjunto de normas que a todos se dirige e a todos vincula (norma agendi), enquanto direito subjetivo é a faculdade conferida ao indivíduo de invocar a norma em seu favor (facultas agendi).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a distinção entre direito objetivo e direito subjetivo segundo Silvio Rodrigues? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_033",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas de ordem pública no direito de família?",
+        "context": {
+            "sentences": [
+                ["No direito de família predominam normas imperativas, de ordem pública, em elevada proporção."]
+            ],
+            "title": ["exemplos_normas_ordem_pública", "direito_de_família"]
+        },
+        "oracle_context": "No direito de família predominam normas imperativas, de ordem pública, em elevada proporção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas de ordem pública no direito de família. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No direito de família predominam normas imperativas, de ordem pública, em elevada proporção.\"\n##end_quote##\n\nPortanto, no direito de família predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.\n\n<RESPOSTA>: No direito de família predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas de ordem pública no direito de família? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_034",
+        "type": "direito",
+        "question": "Quais são os direitos dos incapazes segundo o direito objetivo?",
+        "context": {
+            "sentences": [
+                ["Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico."]
+            ],
+            "title": ["direitos_incapazes", "direito_objetivo"]
+        },
+        "oracle_context": "Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os direitos dos incapazes segundo o direito objetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.\"\n##end_quote##\n\nPortanto, segundo o direito objetivo, os direitos dos incapazes incluem a possibilidade de herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.\n\n<RESPOSTA>: Segundo o direito objetivo, os direitos dos incapazes incluem a possibilidade de herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os direitos dos incapazes segundo o direito objetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_035",
+        "type": "direito",
+        "question": "Qual é a relação entre direito e moral segundo a filosofia escolástica?",
+        "context": {
+            "sentences": [
+                ["No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade."],
+                ["Da necessidade da justiça nas relações humanas é que nasce o direito."]
+            ],
+            "title": ["relação_direito_moral", "filosofia_escolástica"]
+        },
+        "oracle_context": "No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade. Da necessidade da justiça nas relações humanas é que nasce o direito.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a relação entre direito e moral segundo a filosofia escolástica. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade. Da necessidade da justiça nas relações humanas é que nasce o direito.\"\n##end_quote##\n\nPortanto, segundo a filosofia escolástica, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.\n\n<RESPOSTA>: Segundo a filosofia escolástica, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre direito e moral segundo a filosofia escolástica? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_036",
+        "type": "direito",
+        "question": "Quais são os elementos da teoria mista sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse."]
+            ],
+            "title": ["elementos_teoria_mista", "direito_subjetivo"]
+        },
+        "oracle_context": "A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os elementos da teoria mista sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse.\"\n##end_quote##\n\nPortanto, os elementos da teoria mista sobre o direito subjetivo são: o elemento vontade e o elemento interesse.\n\n<RESPOSTA>: Os elementos da teoria mista sobre o direito subjetivo são: o elemento vontade e o elemento interesse.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os elementos da teoria mista sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_037",
+        "type": "direito",
+        "question": "Qual é a relação entre direito objetivo e direito subjetivo segundo Silvio Rodrigues?",
+        "context": {
+            "sentences": [
+                ["Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.'"],
+                ["Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi."]
+            ],
+            "title": ["relação_direito_objetivo_subjetivo", "silvio_rodrigues"]
+        },
+        "oracle_context": "Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.' Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a relação entre direito objetivo e direito subjetivo segundo Silvio Rodrigues. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Silvio Rodrigues esclarece: 'O fenômeno jurídico, embora seja um só, pode ser encarado sob mais de um ângulo. Vendo-o como um conjunto de normas que a todos se dirige e a todos vincula, temos o direito objetivo. É a norma da ação humana, isto é, a norma agendi.' Se, entretanto, o observador encara o fenômeno através da prerrogativa que para o indivíduo decorre da norma, tem-se o direito subjetivo. Trata-se da faculdade conferida ao indivíduo de invocar a norma em seu favor, ou seja, da faculdade de agir sob a sombra da regra, isto é, a facultas agendi.\"\n##end_quote##\n\nPortanto, segundo Silvio Rodrigues, direito objetivo é o conjunto de normas que a todos se dirige e a todos vincula (norma agendi), enquanto direito subjetivo é a faculdade conferida ao indivíduo de invocar a norma em seu favor (facultas agendi).\n\n<RESPOSTA>: Segundo Silvio Rodrigues, direito objetivo é o conjunto de normas que a todos se dirige e a todos vincula (norma agendi), enquanto direito subjetivo é a faculdade conferida ao indivíduo de invocar a norma em seu favor (facultas agendi).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre direito objetivo e direito subjetivo segundo Silvio Rodrigues? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_038",
+        "type": "direito",
+        "question": "Qual é a definição de direito positivo segundo a Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["O direito positivo é o conjunto de normas vigentes num determinado país e em determinada época, consubstanciado, no Brasil, no Código Civil, no Código Penal, no Código de Processo Civil, no Código de Processo Penal etc."]
+            ],
+            "title": ["definição_direito_positivo", "lei_de_introdução"]
+        },
+        "oracle_context": "O direito positivo é o conjunto de normas vigentes num determinado país e em determinada época, consubstanciado, no Brasil, no Código Civil, no Código Penal, no Código de Processo Civil, no Código de Processo Penal etc.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito positivo segundo a Lei de Introdução às Normas do Direito Brasileiro. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O direito positivo é o conjunto de normas vigentes num determinado país e em determinada época, consubstanciado, no Brasil, no Código Civil, no Código Penal, no Código de Processo Civil, no Código de Processo Penal etc.\"\n##end_quote##\n\nPortanto, segundo a Lei de Introdução às Normas do Direito Brasileiro, direito positivo é o conjunto de normas vigentes num determinado país e em determinada época.\n\n<RESPOSTA>: Segundo a Lei de Introdução às Normas do Direito Brasileiro, direito positivo é o conjunto de normas vigentes num determinado país e em determinada época.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito positivo segundo a Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_039",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas jurídicas que se originaram de normas morais?",
+        "context": {
+            "sentences": [
+                ["Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc."]
+            ],
+            "title": ["exemplos_normas_jurídicas_morais"]
+        },
+        "oracle_context": "Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas jurídicas que se originaram de normas morais. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Há mesmo uma tendência das normas morais a converter-se em normas jurídicas, como ocorreu, exemplificativamente, com o dever do pai de velar pelo filho, com a indenização por acidente do trabalho e por despedimento do empregado, com a obrigação de dar a este aviso prévio etc.\"\n##end_quote##\n\nPortanto, exemplos de normas jurídicas que se originaram de normas morais incluem o dever do pai de velar pelo filho, a indenização por acidente do trabalho, a indenização por despedimento do empregado, e a obrigação de dar aviso prévio ao empregado.\n\n<RESPOSTA>: Exemplos de normas jurídicas que se originaram de normas morais incluem o dever do pai de velar pelo filho, a indenização por acidente do trabalho, a indenização por despedimento do empregado, e a obrigação de dar aviso prévio ao empregado.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas jurídicas que se originaram de normas morais? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_040",
+        "type": "direito",
+        "question": "Qual é a crítica à teoria do interesse segundo a visão de Jhering?",
+        "context": {
+            "sentences": [
+                ["A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo."]
+            ],
+            "title": ["crítica_teoria_interesse_jhering"]
+        },
+        "oracle_context": "A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a crítica à teoria do interesse segundo a visão de Jhering. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A teoria de Ihering, que considera direito subjetivo o 'interesse juridicamente protegido', é também criticável, pois confunde o direito subjetivo com o seu conteúdo.\"\n##end_quote##\n\nPortanto, a crítica à teoria do interesse segundo a visão de Jhering é que ela confunde o direito subjetivo com o seu conteúdo.\n\n<RESPOSTA>: A crítica à teoria do interesse segundo a visão de Jhering é que ela confunde o direito subjetivo com o seu conteúdo.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a crítica à teoria do interesse segundo a visão de Jhering? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_041",
+        "type": "direito",
+        "question": "Quais são os elementos básicos das teorias da vontade e do interesse sobre o direito subjetivo?",
+        "context": {
+            "sentences": [
+                ["A teoria da vontade, de Savigny, Windscheid e outros, considera o direito subjetivo um poder da vontade reconhecido pela ordem jurídica."],
+                ["Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido."]
+            ],
+            "title": ["elementos_teorias_vontade_interesse"]
+        },
+        "oracle_context": "A teoria da vontade, de Savigny, Windscheid e outros, considera o direito subjetivo um poder da vontade reconhecido pela ordem jurídica. Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido.",
+        "cot_answer": "Para responder à pergunta, precisamos entender os elementos básicos das teorias da vontade e do interesse sobre o direito subjetivo. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A teoria da vontade, de Savigny, Windscheid e outros, considera o direito subjetivo um poder da vontade reconhecido pela ordem jurídica. Para a teoria do interesse, defendida por Ihering, direito subjetivo é o interesse juridicamente protegido.\"\n##end_quote##\n\nPortanto, os elementos básicos das teorias da vontade e do interesse sobre o direito subjetivo são: a teoria da vontade considera o direito subjetivo um poder da vontade reconhecido pela ordem jurídica, enquanto a teoria do interesse considera o direito subjetivo o interesse juridicamente protegido.\n\n<RESPOSTA>: Os elementos básicos das teorias da vontade e do interesse sobre o direito subjetivo são: a teoria da vontade considera o direito subjetivo um poder da vontade reconhecido pela ordem jurídica, enquanto a teoria do interesse considera o direito subjetivo o interesse juridicamente protegido.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os elementos básicos das teorias da vontade e do interesse sobre o direito subjetivo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_042",
+        "type": "direito",
+        "question": "Qual é a crítica à teoria da vontade sobre o direito subjetivo segundo a visão dos incapazes?",
+        "context": {
+            "sentences": [
+                ["Todavia, há direitos em que não existe uma vontade real do seu titular."],
+                ["Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico."]
+            ],
+            "title": ["crítica_teoria_vontade_incapazes"]
+        },
+        "oracle_context": "Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a crítica à teoria da vontade sobre o direito subjetivo segundo a visão dos incapazes. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Os incapazes, por exemplo, têm direito subjetivo, podendo herdar, ser proprietários, embora não possuam vontade em sentido jurídico.\"\n##end_quote##\n\nPortanto, a crítica à teoria da vontade segundo a visão dos incapazes é que existem direitos subjetivos onde não há uma vontade real do titular, como no caso dos incapazes que podem herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.\n\n<RESPOSTA>: A crítica à teoria da vontade segundo a visão dos incapazes é que existem direitos subjetivos onde não há uma vontade real do titular, como no caso dos incapazes que podem herdar e ser proprietários, mesmo sem possuírem vontade em sentido jurídico.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a crítica à teoria da vontade sobre o direito subjetivo segundo a visão dos incapazes? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_043",
+        "type": "direito",
+        "question": "Qual é a definição de direito natural segundo Aristóteles?",
+        "context": {
+            "sentences": [
+                ["Aristóteles, em sua obra 'Ética a Nicômaco', define o direito natural como aquilo que é justo por natureza, independentemente de leis ou convenções humanas."]
+            ],
+            "title": ["definição_direito_natural_aristóteles"]
+        },
+        "oracle_context": "Aristóteles, em sua obra 'Ética a Nicômaco', define o direito natural como aquilo que é justo por natureza, independentemente de leis ou convenções humanas.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito natural segundo Aristóteles. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Aristóteles, em sua obra 'Ética a Nicômaco', define o direito natural como aquilo que é justo por natureza, independentemente de leis ou convenções humanas.\"\n##end_quote##\n\nPortanto, segundo Aristóteles, direito natural é aquilo que é justo por natureza, independentemente de leis ou convenções humanas.\n\n<RESPOSTA>: Segundo Aristóteles, direito natural é aquilo que é justo por natureza, independentemente de leis ou convenções humanas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito natural segundo Aristóteles? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_044",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas de ordem pública no direito das sucessões?",
+        "context": {
+            "sentences": [
+                ["No direito das sucessões predominam normas imperativas, de ordem pública, em elevada proporção."]
+            ],
+            "title": ["exemplos_normas_ordem_pública", "direito_das_sucessões"]
+        },
+        "oracle_context": "No direito das sucessões predominam normas imperativas, de ordem pública, em elevada proporção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas de ordem pública no direito das sucessões. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No direito das sucessões predominam normas imperativas, de ordem pública, em elevada proporção.\"\n##end_quote##\n\nPortanto, no direito das sucessões predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.\n\n<RESPOSTA>: No direito das sucessões predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas de ordem pública no direito das sucessões? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_045",
+        "type": "direito",
+        "question": "Qual é a relação entre direito e justiça segundo a filosofia escolástica?",
+        "context": {
+            "sentences": [
+                ["No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade."],
+                ["Da necessidade da justiça nas relações humanas é que nasce o direito."]
+            ],
+            "title": ["relação_direito_justiça", "filosofia_escolástica"]
+        },
+        "oracle_context": "No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade. Da necessidade da justiça nas relações humanas é que nasce o direito.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a relação entre direito e justiça segundo a filosofia escolástica. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No ensinamento de Aristóteles, aperfeiçoado pela filosofia escolástica, a justiça é a perpétua vontade de dar a cada um o que é seu, segundo uma igualdade. Da necessidade da justiça nas relações humanas é que nasce o direito.\"\n##end_quote##\n\nPortanto, segundo a filosofia escolástica, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.\n\n<RESPOSTA>: Segundo a filosofia escolástica, a justiça é a vontade perpétua de dar a cada um o que é seu, segundo uma igualdade, e o direito nasce da necessidade de realizar essa justiça nas relações humanas.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre direito e justiça segundo a filosofia escolástica? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_046",
+        "type": "direito",
+        "question": "Qual é a definição de direito positivo segundo Francisco Amaral?",
+        "context": {
+            "sentences": [
+                ["Direito positivo é 'o conjunto de normas jurídicas que vigoram em um determinado país e em uma determinada época', segundo Francisco Amaral."]
+            ],
+            "title": ["definição_direito_positivo", "francisco_amaral"]
+        },
+        "oracle_context": "Direito positivo é 'o conjunto de normas jurídicas que vigoram em um determinado país e em uma determinada época', segundo Francisco Amaral.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito positivo segundo Francisco Amaral. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito positivo é 'o conjunto de normas jurídicas que vigoram em um determinado país e em uma determinada época', segundo Francisco Amaral.\"\n##end_quote##\n\nPortanto, segundo Francisco Amaral, direito positivo é o conjunto de normas jurídicas que vigoram em um determinado país e em uma determinada época.\n\n<RESPOSTA>: Segundo Francisco Amaral, direito positivo é o conjunto de normas jurídicas que vigoram em um determinado país e em uma determinada época.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito positivo segundo Francisco Amaral? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_047",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas de ordem pública no direito real?",
+        "context": {
+            "sentences": [
+                ["No direito real predominam normas imperativas, de ordem pública, em elevada proporção."]
+            ],
+            "title": ["exemplos_normas_ordem_pública", "direito_real"]
+        },
+        "oracle_context": "No direito real predominam normas imperativas, de ordem pública, em elevada proporção.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas de ordem pública no direito real. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No direito real predominam normas imperativas, de ordem pública, em elevada proporção.\"\n##end_quote##\n\nPortanto, no direito real predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.\n\n<RESPOSTA>: No direito real predominam normas imperativas, de ordem pública, que não podem ser alteradas pela vontade das partes.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas de ordem pública no direito real? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_048",
+        "type": "direito",
+        "question": "Qual é a definição de direito subjetivo segundo a teoria da vontade?",
+        "context": {
+            "sentences": [
+                ["Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica."]
+            ],
+            "title": ["definição_direito_subjetivo", "teoria_da_vontade"]
+        },
+        "oracle_context": "Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito subjetivo segundo a teoria da vontade. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Para a teoria da vontade, de Savigny, Windscheid e outros, o direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.\"\n##end_quote##\n\nPortanto, segundo a teoria da vontade, direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.\n\n<RESPOSTA>: Segundo a teoria da vontade, direito subjetivo constitui um poder da vontade reconhecido pela ordem jurídica.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito subjetivo segundo a teoria da vontade? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_049",
+        "type": "direito",
+        "question": "Quais são os exemplos de normas de ordem pública no direito civil?",
+        "context": {
+            "sentences": [
+                ["No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais."]
+            ],
+            "title": ["exemplos_normas_ordem_pública", "direito_civil"]
+        },
+        "oracle_context": "No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais.",
+        "cot_answer": "Para responder à pergunta, precisamos entender quais são os exemplos de normas de ordem pública no direito civil. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"No direito civil predominam as normas de ordem privada, malgrado existam também normas imperativas, de ordem pública, em elevada proporção, no direito de família, no das sucessões e nos direitos reais.\"\n##end_quote##\n\nPortanto, exemplos de normas de ordem pública no direito civil incluem aquelas presentes no direito de família, sucessões e direitos reais, que são imperativas e não podem ser alteradas pela vontade das partes.\n\n<RESPOSTA>: Exemplos de normas de ordem pública no direito civil incluem aquelas presentes no direito de família, sucessões e direitos reais, que são imperativas e não podem ser alteradas pela vontade das partes.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os exemplos de normas de ordem pública no direito civil? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_050",
+        "type": "direito",
+        "question": "Qual é a definição de direito positivo segundo Silvio Rodrigues?",
+        "context": {
+            "sentences": [
+                ["Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum)."]
+            ],
+            "title": ["definição_direito_positivo", "silvio_rodrigues"]
+        },
+        "oracle_context": "Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum).",
+        "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito positivo segundo Silvio Rodrigues. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época (jus in civitate positum).\"\n##end_quote##\n\nPortanto, segundo Silvio Rodrigues, direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época.\n\n<RESPOSTA>: Segundo Silvio Rodrigues, direito positivo é o ordenamento jurídico em vigor num determinado país e numa determinada época.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de direito positivo segundo Silvio Rodrigues? Use as informações contidas nos documentos."
+    }
+]

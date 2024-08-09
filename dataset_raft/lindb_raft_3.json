@@ -1,0 +1,32 @@
+[
+    {
+        "id": "qa_lindb_1",
+        "type": "direito",
+        "question": "Quais são as funções principais da Lei de Introdução às Normas do Direito Brasileiro (LINDB)?",
+        "context": {
+            "sentences": [
+                [
+                    "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."
+                ],
+                [
+                    "A Lei de Introdução às Normas do Direito Brasileiro é aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."
+                ],
+                [
+                    "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."
+                ],
+                [
+                    "A Lei de Introdução às Normas do Direito Brasileiro é aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."
+                ]
+            ],
+            "title": [
+                "direito",
+                "direito",
+                "direito",
+                "direito"
+            ]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar as funções principais da Lei de Introdução às Normas do Direito Brasileiro (LINDB). O contexto fornece esta informação diretamente.##begin_quote##\"A Lei de Introdução às Normas do Direito Brasileiro é aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"##end_quote##A partir desta frase, podemos inferir que as funções principais da LINDB são: regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas quando houver lacunas, e garantir a eficácia global da ordem jurídica, bem como a certeza, segurança e estabilidade do ordenamento.<RESPOSTA>: As funções principais da Lei de Introdução às Normas do Direito Brasileiro (LINDB) são: regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas quando houver lacunas, e garantir a eficácia global da ordem jurídica, bem como a certeza, segurança e estabilidade do ordenamento.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as funções principais da Lei de Introdução às Normas do Direito Brasileiro (LINDB)? Use as informações contidas nos documentos."
+    }
+]

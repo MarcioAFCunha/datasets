@@ -1,0 +1,790 @@
+[
+{
+    "id": "qa_001",
+    "type": "direito",
+    "question": "Qual é o objetivo da Lei de Introdução às Normas do Direito Brasileiro (LINDB)?",
+    "context": {
+        "sentences": [
+            ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.A mencionada Lei n. 12.376, de 30 de dezembro de 2010, com o objetivo de ampliar o campo de aplicação da Lei de Introdução ao Código Civil, como proclama o seu art. 1º, preceitua no art. 2º que “A ementa do Decreto-Lei n. 4.657, de 4 de setembro de 1942, passa a vigorar com a seguinte redação: ‘Lei de Introdução às Normas do Direito Brasileiro’”. Embora se destine a facilitar a sua aplicação, tem caráter universal, aplicando-se a todos os ramos do direito."],
+            ["Há, porém, um limite à extraterritorialidade da lei: as leis, atos e sentenças de outro país, bem como quaisquer declarações de vontade, não terão eficácia no Brasil, quando ofenderem a soberania nacional, a ordem pública e os bons costumes (art. 17)."],
+            ["O novo Código Civil reduziu o limite da maioridade civil para dezoito anos, tornando automaticamente maiores todos os que já tinham atingido essa idade."]
+        ],
+        "title": ["objetivo", "ampliação", "universalidade"]
+    },
+    "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.A mencionada Lei n. 12.376, de 30 de dezembro de 2010, com o objetivo de ampliar o campo de aplicação da Lei de Introdução ao Código Civil, como proclama o seu art. 1º, preceitua no art. 2º que “A ementa do Decreto-Lei n. 4.657, de 4 de setembro de 1942, passa a vigorar com a seguinte redação: ‘Lei de Introdução às Normas do Direito Brasileiro’”. Embora se destine a facilitar a sua aplicação, tem caráter universal, aplicando-se a todos os ramos do direito.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o objetivo da Lei de Introdução às Normas do Direito Brasileiro (LINDB). O contexto nos diz que a LINDB é um conjunto de normas sobre normas, disciplinando as normas jurídicas e determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.\"\n##end_quote##\n\nPortanto, o objetivo da LINDB é disciplinar as normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n<RESPOSTA>: O objetivo da Lei de Introdução às Normas do Direito Brasileiro (LINDB) é disciplinar as normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o objetivo da Lei de Introdução às Normas do Direito Brasileiro (LINDB)? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_002",
+    "type": "direito",
+    "question": "Quais são as principais funções da LINDB?",
+    "context": {
+        "sentences": [
+            ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["Quando o art. 3º da Lei de Introdução prescreve que ninguém se escusa de cumprir a lei alegando que não a conhece, está-se referindo à lei em geral. Tal regra aplica-se a todo o ordenamento."],
+            ["Exemplo de efeito imediato das leis é o que se dá sobre a capacidade das pessoas, pois alcança todos aqueles por ela abrangidos."]
+        ],
+        "title": ["funções"]
+    },
+    "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+    "cot_answer": "Para responder à pergunta, precisamos identificar as principais funções da LINDB. O contexto fornece essas informações de forma clara.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nPortanto, as principais funções da LINDB são regular a vigência e eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia, certeza, segurança e estabilidade da ordem jurídica.\n\n<RESPOSTA>: As principais funções da LINDB são: regular a vigência e eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia, certeza, segurança e estabilidade da ordem jurídica.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as principais funções da LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_003",
+    "type": "direito",
+    "question": "Quais são as fontes formais e não formais do direito segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência. Malgrado a jurisprudência, para alguns, não possa ser considerada, cientificamente, fonte formal de direito, mas somente fonte meramente intelectual ou informativa (não formal), a realidade é que, no plano da realidade prática, ela tem-se revelado fonte criadora do direito."],
+            ["As fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema."],
+            ["A Revolução Industrial foi um período de transição para novos processos de fabricação na Europa e nos Estados Unidos, ocorrendo aproximadamente entre 1760 e 1840."]
+        ],
+        "title": ["fontes_formais", "jurisprudência", "fontes_históricas"]
+    },
+    "oracle_context": "São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência. Malgrado a jurisprudência, para alguns, não possa ser considerada, cientificamente, fonte formal de direito, mas somente fonte meramente intelectual ou informativa (não formal), a realidade é que, no plano da realidade prática, ela tem-se revelado fonte criadora do direito.",
+    "cot_answer": "Para responder à pergunta, precisamos identificar as fontes formais e não formais do direito segundo a LINDB. O contexto nos fornece essas informações diretamente.\n\n##begin_quote##\n\"São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência.\"\n##end_quote##\n\nPortanto, as fontes formais do direito são a lei, a analogia, o costume e os princípios gerais de direito. As fontes não formais são a doutrina e a jurisprudência.\n\n<RESPOSTA>: As fontes formais do direito são a lei, a analogia, o costume e os princípios gerais de direito. As fontes não formais são a doutrina e a jurisprudência.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as fontes formais e não formais do direito segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_004",
+    "type": "direito",
+    "question": "Qual é a diferença entre normas cogentes e não cogentes?",
+    "context": {
+        "sentences": [
+            ["Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção).b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada."],
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência."],
+            ["A jurisprudência vem mitigando os efeitos da coisa julgada, permitindo a investigação da paternidade quando a anterior ação foi julgada improcedente por insuficiência de provas, sem o exame do mérito."]
+
+        ],
+        "title": ["normas_cogentes", "normas_não_cogentes"]
+    },
+    "oracle_context": "Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção). b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a diferença entre normas cogentes e não cogentes. O contexto fornece essa informação de forma clara.\n\n##begin_quote##\n\"Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção). b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada.\"\n##end_quote##\n\nPortanto, a diferença entre normas cogentes e não cogentes é que as normas cogentes impõem uma ação ou proibição de maneira absoluta, enquanto as normas não cogentes permitem uma ação ou abstenção de modo relativo, podendo ser ajustadas pela vontade das partes.\n\n<RESPOSTA>: Normas cogentes impõem uma ação ou proibição de maneira absoluta. Normas não cogentes permitem uma ação ou abstenção de modo relativo, podendo ser ajustadas pela vontade das partes.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a diferença entre normas cogentes e não cogentes? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_005",
+    "type": "direito",
+    "question": "O que são fontes históricas do direito?",
+    "context": {
+        "sentences": [
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+        ],
+        "title": ["fontes_históricas"]
+    },
+    "oracle_context": "Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que são fontes históricas do direito. O contexto nos fornece essa definição diretamente.\n\n##begin_quote##\n\"Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc.\"\n##end_quote##\n\nPortanto, fontes históricas do direito são aquelas utilizadas por estudiosos para investigar a origem histórica de um instituto jurídico ou de um sistema.\n\n<RESPOSTA>: Fontes históricas do direito são aquelas utilizadas por estudiosos para investigar a origem histórica de um instituto jurídico ou de um sistema.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que são fontes históricas do direito? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_006",
+    "type": "direito",
+    "question": "Como a LINDB disciplina a elaboração e vigência das normas jurídicas?",
+    "context": {
+        "sentences": [
+            ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço. Ultrapassa ela o âmbito do direito civil, pois enquanto o objeto das leis em geral é o comportamento humano, o da Lei de Introdução às Normas do Direito Brasileiro é a própria norma, visto que disciplina a sua elaboração e vigência, a sua aplicação no tempo e no espaço, as suas fontes etc."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+            ["O direito penal admite a analogia somente in bonam partem."]            
+        ],
+        "title": ["disciplina", "conjunto_de_normas"]
+    },
+    "oracle_context": "Ultrapassa ela o âmbito do direito civil, pois enquanto o objeto das leis em geral é o comportamento humano, o da Lei de Introdução às Normas do Direito Brasileiro é a própria norma, visto que disciplina a sua elaboração e vigência, a sua aplicação no tempo e no espaço, as suas fontes etc.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB disciplina a elaboração e vigência das normas jurídicas. O contexto nos diz que a LINDB é uma legislação que ultrapassa o âmbito do direito civil e se concentra na própria norma, disciplinando sua elaboração, vigência, aplicação no tempo e no espaço, e suas fontes.\n\n##begin_quote##\n\"Ultrapassa ela o âmbito do direito civil, pois enquanto o objeto das leis em geral é o comportamento humano, o da Lei de Introdução às Normas do Direito Brasileiro é a própria norma, visto que disciplina a sua elaboração e vigência, a sua aplicação no tempo e no espaço, as suas fontes etc.\"\n##end_quote##\n\nPortanto, a LINDB disciplina a elaboração e vigência das normas jurídicas, determinando sua aplicação no tempo e no espaço e suas fontes.\n\n<RESPOSTA>: A LINDB disciplina a elaboração e vigência das normas jurídicas, determinando sua aplicação no tempo e no espaço e suas fontes.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB disciplina a elaboração e vigência das normas jurídicas? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_007",
+    "type": "direito",
+    "question": "O que determina o artigo 3º da LINDB?",
+    "context": {
+        "sentences": [
+            ["Quando o art. 3º da Lei de Introdução prescreve que ninguém se escusa de cumprir a lei alegando que não a conhece, está-se referindo à lei em geral. Tal regra aplica-se a todo o ordenamento."],
+            ["E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º)."],
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência."]
+        ],
+        "title": ["artigo_3"]
+    },
+    "oracle_context": "Quando o art. 3º da Lei de Introdução prescreve que ninguém se escusa de cumprir a lei alegando que não a conhece, está-se referindo à lei em geral. Tal regra aplica-se a todo o ordenamento.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que determina o artigo 3º da LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Quando o art. 3º da Lei de Introdução prescreve que ninguém se escusa de cumprir a lei alegando que não a conhece, está-se referindo à lei em geral. Tal regra aplica-se a todo o ordenamento.\"\n##end_quote##\n\nPortanto, o artigo 3º da LINDB determina que ninguém pode se eximir de cumprir a lei alegando que não a conhece, aplicando-se essa regra a todo o ordenamento jurídico.\n\n<RESPOSTA>: O artigo 3º da LINDB determina que ninguém pode se eximir de cumprir a lei alegando que não a conhece, aplicando-se essa regra a todo o ordenamento jurídico.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que determina o artigo 3º da LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_008",
+    "type": "direito",
+    "question": "Qual é a relação entre a LINDB e o Código Civil?",
+    "context": {
+        "sentences": [
+            ["Trata-se de legislação anexa ao Código Civil, mas autônoma, dele não fazendo parte."],
+            ["Embora se destine a facilitar a sua aplicação, tem caráter universal, aplicando-se a todos os ramos do direito. Acompanha o Código Civil simplesmente porque se trata do diploma considerado de maior importância."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."]
+
+        ],
+        "title": ["legislação_anexa", "caráter_universal"]
+    },
+    "oracle_context": "Trata-se de legislação anexa ao Código Civil, mas autônoma, dele não fazendo parte.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a relação entre a LINDB e o Código Civil. O contexto nos informa que a LINDB é uma legislação anexa ao Código Civil, mas autônoma, não fazendo parte dele.\n\n##begin_quote##\n\"Trata-se de legislação anexa ao Código Civil, mas autônoma, dele não fazendo parte.\"\n##end_quote##\n\nPortanto, a relação entre a LINDB e o Código Civil é que a LINDB é uma legislação anexa ao Código Civil, mas autônoma, não fazendo parte dele.\n\n<RESPOSTA>: A relação entre a LINDB e o Código Civil é que a LINDB é uma legislação anexa ao Código Civil, mas autônoma, não fazendo parte dele.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre a LINDB e o Código Civil? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_009",
+    "type": "direito",
+    "question": "Onde a LINDB trata a aplicação das normas no tempo e no espaço?",
+    "context": {
+        "sentences": [
+            ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19)."],
+            ["E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º)."]
+        ],
+        "title": ["disciplina", "funções"]
+    },
+    "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19).",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB trata a aplicação das normas no tempo e no espaço. O contexto nos diz que a LINDB disciplina as normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.\"\n##end_quote##\n\nPortanto, a LINDB trata a aplicação das normas no tempo e no espaço, disciplinando-as para determinar seu modo de aplicação e entendimento.\n\n<RESPOSTA>: A LINDB trata a aplicação das normas no tempo e no espaço, disciplinando-as para determinar seu modo de aplicação e entendimento.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB trata a aplicação das normas no tempo e no espaço? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_011",
+    "type": "direito",
+    "question": "Qual é a importância das fontes do direito?",
+    "context": {
+        "sentences": [
+            ["A compreensão da natureza e eficácia das normas jurídicas pressupõe o conhecimento da sua origem ou fonte. Desse modo, não só a autoridade encarregada de aplicar o direito como também aqueles que devem obedecer os seus ditames precisam conhecer as suas fontes, que são de várias espécies."],
+            ["Assim, o dispositivo que manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos (art. 4º) aplica-se a todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+        ],
+        "title": ["importância"]
+    },
+    "oracle_context": "A compreensão da natureza e eficácia das normas jurídicas pressupõe o conhecimento da sua origem ou fonte. Desse modo, não só a autoridade encarregada de aplicar o direito como também aqueles que devem obedecer os seus ditames precisam conhecer as suas fontes, que são de várias espécies.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a importância das fontes do direito. O contexto nos fornece essa explicação de forma clara.\n\n##begin_quote##\n\"A compreensão da natureza e eficácia das normas jurídicas pressupõe o conhecimento da sua origem ou fonte. Desse modo, não só a autoridade encarregada de aplicar o direito como também aqueles que devem obedecer os seus ditames precisam conhecer as suas fontes, que são de várias espécies.\"\n##end_quote##\n\nPortanto, a importância das fontes do direito reside no fato de que a compreensão da natureza e eficácia das normas jurídicas pressupõe o conhecimento de sua origem ou fonte, sendo essencial tanto para a autoridade encarregada de aplicar o direito quanto para aqueles que devem obedecer às normas.\n\n<RESPOSTA>: A importância das fontes do direito reside no fato de que a compreensão da natureza e eficácia das normas jurídicas pressupõe o conhecimento de sua origem ou fonte, sendo essencial tanto para a autoridade encarregada de aplicar o direito quanto para aqueles que devem obedecer às normas.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a importância das fontes do direito? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_012",
+    "type": "direito",
+    "question": "O que são fontes formais diretas e indiretas do direito?",
+    "context": {
+        "sentences": [
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência."],
+            ["Costuma-se, também, dividir as fontes do direito em diretas (ou imediatas) e indiretas (ou mediatas). As primeiras são a lei e o costume, que por si só geram a regra jurídica; as segundas são a doutrina e a jurisprudência, que contribuem para que a norma seja elaborada."]
+        ],
+        "title": ["fontes_formais", "fontes_diretas_e_indiretas"]
+    },
+    "oracle_context": "Costuma-se, também, dividir as fontes do direito em diretas (ou imediatas) e indiretas (ou mediatas). As primeiras são a lei e o costume, que por si só geram a regra jurídica; as segundas são a doutrina e a jurisprudência, que contribuem para que a norma seja elaborada.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que são fontes formais diretas e indiretas do direito. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Costuma-se, também, dividir as fontes do direito em diretas (ou imediatas) e indiretas (ou mediatas). As primeiras são a lei e o costume, que por si só geram a regra jurídica; as segundas são a doutrina e a jurisprudência, que contribuem para que a norma seja elaborada.\"\n##end_quote##\n\nPortanto, fontes formais diretas do direito são a lei e o costume, que por si só geram a regra jurídica, enquanto as fontes formais indiretas são a doutrina e a jurisprudência, que contribuem para a elaboração da norma jurídica.\n\n<RESPOSTA>: Fontes formais diretas do direito são a lei e o costume, que por si só geram a regra jurídica, enquanto as fontes formais indiretas são a doutrina e a jurisprudência, que contribuem para a elaboração da norma jurídica.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que são fontes formais diretas e indiretas do direito? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_013",
+    "type": "direito",
+    "question": "Qual é a função da analogia no direito penal e no direito tributário?",
+    "context": {
+        "sentences": [
+            ["O direito penal admite a analogia somente in bonam partem. E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º)."],
+            ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+        ],
+        "title": ["função_da_analogia"]
+    },
+    "oracle_context": "O direito penal admite a analogia somente in bonam partem. E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º).",
+    "cot_answer": "Para responder à pergunta, precisamos entender a função da analogia no direito penal e no direito tributário. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O direito penal admite a analogia somente in bonam partem. E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º).\"\n##end_quote##\n\nPortanto, a função da analogia no direito penal é limitada a beneficiar o réu (in bonam partem), enquanto no direito tributário a analogia é utilizada como critério de interpretação, mas não pode resultar na exigência de tributo não previsto em lei.\n\n<RESPOSTA>: A função da analogia no direito penal é limitada a beneficiar o réu (in bonam partem). No direito tributário, a analogia é utilizada como critério de interpretação, mas não pode resultar na exigência de tributo não previsto em lei.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a função da analogia no direito penal e no direito tributário? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_014",
+    "type": "direito",
+    "question": "Como a LINDB aborda a integração de normas em caso de lacunas?",
+    "context": {
+        "sentences": [
+            ["c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º)"],
+            ["A Revolução Industrial foi um período de transição para novos processos de fabricação na Europa e nos Estados Unidos, ocorrendo aproximadamente entre 1760 e 1840."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."]
+        ],
+        "title": ["integração_de_normas"]
+    },
+    "oracle_context": "ela estabelece mecanismos de integração de normas, quando houver lacunas (art. 4º)",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB aborda a integração de normas em caso de lacunas. O contexto nos fornece essa informação diretamente.\n\n##begin_quote##\n\"c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º)\"\n##end_quote##\n\nPortanto, a LINDB aborda a integração de normas em caso de lacunas estabelecendo mecanismos específicos para suprir essas lacunas, conforme o artigo 4º.\n\n<RESPOSTA>: A LINDB aborda a integração de normas em caso de lacunas estabelecendo mecanismos específicos para suprir essas lacunas, conforme o artigo 4º.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB aborda a integração de normas em caso de lacunas? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_015",
+    "type": "direito",
+    "question": "Quais são as fontes atuais e históricas do direito mencionadas na LINDB?",
+    "context": {
+        "sentences": [
+            ["Atuais são as fontes às quais se reporta o indivíduo para afirmar o seu direito, e o juiz, para fundamentar a sentença. Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."],
+            ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["O direito penal admite a analogia somente in bonam partem."]
+        ],
+        "title": ["fontes_atual", "fontes_históricas"]
+    },
+    "oracle_context": "Atuais são as fontes às quais se reporta o indivíduo para afirmar o seu direito, e o juiz, para fundamentar a sentença. Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc.",
+    "cot_answer": "Para responder à pergunta, precisamos identificar as fontes atuais e históricas do direito mencionadas na LINDB. O contexto nos fornece essas informações de forma clara.\n\n##begin_quote##\n\"Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc.\"\n##end_quote##\n\nPortanto, as fontes atuais do direito são aquelas às quais o indivíduo e o juiz se reportam para afirmar o direito e fundamentar a sentença. As fontes históricas do direito são aquelas utilizadas pelos estudiosos para investigar a origem histórica de um instituto jurídico ou de um sistema.\n\n<RESPOSTA>: As fontes atuais do direito são aquelas às quais o indivíduo e o juiz se reportam para afirmar o direito e fundamentar a sentença. As fontes históricas do direito são aquelas utilizadas pelos estudiosos para investigar a origem histórica de um instituto jurídico ou de um sistema.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as fontes atuais e históricas do direito mencionadas na LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_016",
+    "type": "direito",
+    "question": "Quais são os tipos de leis mencionadas na LINDB quanto à imperatividade?",
+    "context": {
+        "sentences": [
+            ["Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção). b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada."],
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."]
+        ],
+        "title": ["tipos_de_leis"]
+    },
+    "oracle_context": "Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção). b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada.",
+    "cot_answer": "Para responder à pergunta, precisamos entender os tipos de leis mencionadas na LINDB quanto à imperatividade. O contexto nos fornece essa informação diretamente.\n\n##begin_quote##\n\"Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção). b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada.\"\n##end_quote##\n\nPortanto, os tipos de leis mencionadas na LINDB quanto à imperatividade são: leis cogentes (de imperatividade absoluta) e leis não cogentes (de imperatividade relativa).\n\n<RESPOSTA>: Os tipos de leis mencionadas na LINDB quanto à imperatividade são: leis cogentes (de imperatividade absoluta) e leis não cogentes (de imperatividade relativa).",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os tipos de leis mencionadas na LINDB quanto à imperatividade? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_017",
+    "type": "direito",
+    "question": "Como a LINDB aborda a segurança e estabilidade do ordenamento jurídico?",
+    "context": {
+        "sentences": [
+            ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["Em alguns casos especiais, todavia, a lei pode ter vigência temporária e cessará, então, por causas intrínsecas, tais como: a) Advento do termo fixado para sua duração. Algumas leis, por sua natureza, são destinadas a viger apenas durante certo período, como as disposições transitórias e as leis orçamentárias. Outras, prefixam expressamente a sua duração."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."]
+        ],
+        "title": ["segurança_e_estabilidade"]
+    },
+    "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB aborda a segurança e estabilidade do ordenamento jurídico. O contexto nos fornece essa explicação de forma clara.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nPortanto, a LINDB aborda a segurança e estabilidade do ordenamento jurídico ao garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, e preservando a certeza, segurança e estabilidade do ordenamento, bem como as situações consolidadas onde o interesse individual prevalece.\n\n<RESPOSTA>: A LINDB aborda a segurança e estabilidade do ordenamento jurídico ao garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, e preservando a certeza, segurança e estabilidade do ordenamento, bem como as situações consolidadas onde o interesse individual prevalece.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB aborda a segurança e estabilidade do ordenamento jurídico? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_018",
+    "type": "direito",
+    "question": "Qual é a diferença entre normas substantivas e adjetivas?",
+    "context": {
+        "sentences": [
+            ["a) Substantivas — as que definem direitos e deveres e estabelecem os seus requisitos e forma de exercício. São também chamadas de materiais, porque tratam do direito material. O seu conjunto é denominado direito substantivo, em contraposição às leis processuais, que compõem o direito adjetivo. b) Adjetivas — são as que traçam os meios de realização dos direitos, sendo também denominadas processuais ou formais. Integram o direito adjetivo. Essa classificação, embora tradicional, não é muito utilizada atualmente, sendo mesmo considerada imprópria, porque nem toda lei formal é adjetiva, mas, ao contrário, há leis processuais que são de natureza substantiva, assim como há normas que ao mesmo tempo definem os direitos e disciplinam a forma de sua realização."],
+            ["O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis."],
+            ["Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”."]
+        ],
+        "title": ["normas_substantivas", "normas_adjetivas"]
+    },
+    "oracle_context": "a) Substantivas — as que definem direitos e deveres e estabelecem os seus requisitos e forma de exercício. São também chamadas de materiais, porque tratam do direito material. O seu conjunto é denominado direito substantivo, em contraposição às leis processuais, que compõem o direito adjetivo. b) Adjetivas — são as que traçam os meios de realização dos direitos, sendo também denominadas processuais ou formais. Integram o direito adjetivo. Essa classificação, embora tradicional, não é muito utilizada atualmente, sendo mesmo considerada imprópria, porque nem toda lei formal é adjetiva, mas, ao contrário, há leis processuais que são de natureza substantiva, assim como há normas que ao mesmo tempo definem os direitos e disciplinam a forma de sua realização.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a diferença entre normas substantivas e adjetivas. O contexto nos fornece essas informações de forma clara.\n\n##begin_quote##\n\"a) Substantivas — as que definem direitos e deveres e estabelecem os seus requisitos e forma de exercício. São também chamadas de materiais, porque tratam do direito material. O seu conjunto é denominado direito substantivo, em contraposição às leis processuais, que compõem o direito adjetivo. b) Adjetivas — são as que traçam os meios de realização dos direitos, sendo também denominadas processuais ou formais. Integram o direito adjetivo.\"\n##end_quote##\n\nPortanto, normas substantivas são aquelas que definem direitos e deveres e estabelecem os seus requisitos e forma de exercício. Normas adjetivas são aquelas que traçam os meios de realização dos direitos.\n\n<RESPOSTA>: Normas substantivas são aquelas que definem direitos e deveres e estabelecem os seus requisitos e forma de exercício. Normas adjetivas são aquelas que traçam os meios de realização dos direitos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a diferença entre normas substantivas e adjetivas? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_019",
+    "type": "direito",
+    "question": "Quais são as características de uma lei mais que perfeita?",
+    "context": {
+        "sentences": [
+            ["a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II)."],
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."],
+            ["O Código Civil de 2002, por exemplo, no livro complementar 'Das disposições finais e transitórias' (arts. 2.028 a 2.046), contém vários dispositivos com esse objetivo."]
+        ],
+        "title": ["leis_mais_que_perfeitas"]
+    },
+    "oracle_context": "a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II).",
+    "cot_answer": "Para responder à pergunta, precisamos entender as características de uma lei mais que perfeita. O contexto nos fornece essas informações de forma clara.\n\n##begin_quote##\n\"a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II).\"\n##end_quote##\n\nPortanto, as características de uma lei mais que perfeita são que ela estabelece ou autoriza a aplicação de duas sanções na hipótese de serem violadas, podendo incluir penas de natureza penal e civil.\n\n<RESPOSTA>: As características de uma lei mais que perfeita são que ela estabelece ou autoriza a aplicação de duas sanções na hipótese de serem violadas, podendo incluir penas de natureza penal e civil.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as características de uma lei mais que perfeita? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_020",
+    "type": "direito",
+    "question": "Quais são as diferentes classificações de leis quanto à hierarquia mencionadas na LINDB?",
+    "context": {
+        "sentences": [
+            ["a) Normas constitucionais — são as que constam da Constituição, às quais as demais devem amoldar-se. São as mais importantes, por assegurarem os direitos fundamentais do homem, como indivíduo e como cidadão, e disciplinarem a estrutura da nação e a organização do Estado. b) Leis complementares — são as que se situam entre a norma constitucional e a lei ordinária, porque tratam de matérias especiais, que não podem ser deliberadas em leis ordinárias e cuja aprovação exige quorum especial (CF, arts. 59, parágrafo único, e 69). c) Leis ordinárias — são as que emanam dos órgãos investidos de função legislativa pela Constituição Federal, mediante discussão e aprovação de projetos de lei submetidos às duas Casas do Congresso e, posteriormente, à sanção e promulgação do Presidente da República e publicação no Diário Oficial da União. d) Leis delegadas — são elaboradas pelo Executivo, por autorização expressa do Legislativo, tendo a mesma posição hierárquica das ordinárias (CF, art. 68, §§ 1º a 3º). e) Medidas provisórias — estão situadas no mesmo plano das ordinárias e das delegadas, malgrado não sejam propriamente leis. São editadas pelo Poder Executivo (CF, art. 84, XXVI), que exerce função normativa, nos casos previstos na Constituição Federal."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."],
+            ["Tal dispositivo visa garantir a eficácia global da ordem jurídica, que estaria comprometida se se admitisse a alegação de ignorância de lei vigente."]
+        ],
+        "title": ["classificações_de_leis"]
+    },
+    "oracle_context": "a) Normas constitucionais — são as que constam da Constituição, às quais as demais devem amoldar-se. São as mais importantes, por assegurarem os direitos fundamentais do homem, como indivíduo e como cidadão, e disciplinarem a estrutura da nação e a organização do Estado.",
+    "cot_answer": "Para responder à pergunta, precisamos entender as diferentes classificações de leis quanto à hierarquia mencionadas na LINDB. O contexto nos fornece essas informações de forma clara.\n\n##begin_quote##\n\"a) Normas constitucionais — são as que constam da Constituição, às quais as demais devem amoldar-se. São as mais importantes, por assegurarem os direitos fundamentais do homem, como indivíduo e como cidadão, e disciplinarem a estrutura da nação e a organização do Estado. b) Leis complementares — são as que se situam entre a norma constitucional e a lei ordinária, porque tratam de matérias especiais, que não podem ser deliberadas em leis ordinárias e cuja aprovação exige quorum especial (CF, arts. 59, parágrafo único, e 69). c) Leis ordinárias — são as que emanam dos órgãos investidos de função legislativa pela Constituição Federal, mediante discussão e aprovação de projetos de lei submetidos às duas Casas do Congresso e, posteriormente, à sanção e promulgação do Presidente da República e publicação no Diário Oficial da União. d) Leis delegadas — são elaboradas pelo Executivo, por autorização expressa do Legislativo, tendo a mesma posição hierárquica das ordinárias (CF, art. 68, §§ 1º a 3º). e) Medidas provisórias — estão situadas no mesmo plano das ordinárias e das delegadas, malgrado não sejam propriamente leis. São editadas pelo Poder Executivo (CF, art. 84, XXVI), que exerce função normativa, nos casos previstos na Constituição Federal.\"\n##end_quote##\n\nPortanto, as diferentes classificações de leis quanto à hierarquia mencionadas na LINDB são: normas constitucionais, leis complementares, leis ordinárias, leis delegadas e medidas provisórias.\n\n<RESPOSTA>: As diferentes classificações de leis quanto à hierarquia mencionadas na LINDB são: normas constitucionais, leis complementares, leis ordinárias, leis delegadas e medidas provisórias.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as diferentes classificações de leis quanto à hierarquia mencionadas na LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_021",
+    "type": "direito",
+    "question": "O que é vacatio legis e qual é sua função?",
+    "context": {
+        "sentences": [
+            ["O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis."],
+            ["Em matéria de duração do referido intervalo, foi adotado o critério do prazo único, porque a lei entra em vigor na mesma data, em todo o País, sendo simultânea a sua obrigatoriedade."],
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência. Malgrado a jurisprudência, para alguns, não possa ser considerada, cientificamente, fonte formal de direito, mas somente fonte meramente intelectual ou informativa (não formal), a realidade é que, no plano da realidade prática, ela tem-se revelado fonte criadora do direito."]
+        ],
+        "title": ["vacatio_legis", "duração"]
+    },
+    "oracle_context": "O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o conceito de vacatio legis e sua função. O contexto nos diz que o intervalo entre a data de publicação da lei e a sua entrada em vigor é chamado de vacatio legis.\n\n##begin_quote##\n\"O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis.\"\n##end_quote##\n\nPortanto, vacatio legis é o período entre a publicação de uma lei e o início de sua vigência. Sua função é permitir que todos tomem conhecimento da nova lei antes que ela se torne obrigatória.\n\n<RESPOSTA>: Vacatio legis é o período entre a publicação de uma lei e o início de sua vigência. Sua função é permitir que todos tomem conhecimento da nova lei antes que ela se torne obrigatória.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é vacatio legis e qual é sua função? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_022",
+    "type": "direito",
+    "question": "Como a LINDB define o início da vigência de uma lei?",
+    "context": {
+        "sentences": [
+            ["Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, 'começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada.' Portanto, a obrigatoriedade da lei não se inicia no dia da publicação, salvo se ela própria assim o determinar."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+        ],
+        "title": ["início_da_vigência", "obrigatoriedade"]
+    },
+    "oracle_context": "Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB define o início da vigência de uma lei. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”.\"\n##end_quote##\n\nPortanto, a LINDB define que a vigência de uma lei começa 45 dias após sua publicação oficial, salvo disposição contrária no texto da própria lei.\n\n<RESPOSTA>: A LINDB define que a vigência de uma lei começa 45 dias após sua publicação oficial, salvo disposição contrária no texto da própria lei.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB define o início da vigência de uma lei? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_023",
+    "type": "direito",
+    "question": "Qual a diferença entre vigência e vigor de uma lei?",
+    "context": {
+        "sentences": [
+            ["É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante."],
+            ["É o caso, como assinala Fábio de Oliveira Azevedo, do Código Civil de 1916, “que não tem mais vigência, por estar revogado, embora ainda possua vigor. Se um contrato foi celebrado durante a sua vigência e tiver que ser examinado hoje, quanto à sua validade, deverá ser aplicado o Código revogado (art. 2.035 do CC/02, na sua primeira parte). Isso significa aplicar uma lei sem vigência (revogada), mas ainda com vigor (determinado pelo art. 2.035)”."],
+            ["Quanto à imperatividade, dividem-se em: a) Cogentes, também denominadas de ordem pública ou de imperatividade absoluta. São mandamentais (ordenam ou determinam uma ação) ou proibitivas (impõem uma abstenção).b) Não cogentes, também chamadas de dispositivas ou de imperatividade relativa. Não determinam nem proíbem de modo absoluto determinada conduta, mas permitem uma ação ou abstenção, ou suprem declaração de vontade não manifestada."]
+        ],
+        "title": ["vigência", "vigor"]
+    },
+    "oracle_context": "É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a diferença entre vigência e vigor de uma lei. O contexto nos esclarece que vigência está relacionada ao tempo de duração da lei, enquanto vigor está relacionado à sua força vinculante.\n\n##begin_quote##\n\"É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante.\"\n##end_quote##\n\nPortanto, vigência refere-se ao período em que a lei está em efeito, enquanto vigor refere-se à força obrigatória da lei.\n\n<RESPOSTA>: Vigência refere-se ao período em que a lei está em efeito, enquanto vigor refere-se à força obrigatória da lei.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual a diferença entre vigência e vigor de uma lei? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_024",
+    "type": "direito",
+    "question": "O que acontece se uma lei for publicada com erros materiais durante a vacatio legis?",
+    "context": {
+        "sentences": [
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."],
+            ["O novo prazo para entrada em vigor da lei só corre para a parte corrigida ou emendada, ou seja, apenas os artigos republicados terão prazo de vigência contado da nova publicação, para que o texto correto seja conhecido, sem necessidade de que se vote nova lei."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."]
+        ],
+        "title": ["correção_de_erros", "novo_prazo"]
+    },
+    "oracle_context": "Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º).",
+    "cot_answer": "Para responder à pergunta, precisamos entender o procedimento quando uma lei é publicada com erros materiais durante a vacatio legis. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º).\"\n##end_quote##\n\nPortanto, se uma lei for publicada com erros materiais durante a vacatio legis, o prazo da obrigatoriedade começará a correr novamente da data da nova publicação, mas isso se aplica apenas aos artigos corrigidos.\n\n<RESPOSTA>: Se uma lei for publicada com erros materiais durante a vacatio legis, o prazo da obrigatoriedade começará a correr novamente da data da nova publicação, mas isso se aplica apenas aos artigos corrigidos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que acontece se uma lei for publicada com erros materiais durante a vacatio legis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_025",
+    "type": "direito",
+    "question": "Quais são as causas intrínsecas que podem levar à cessação da vigência de uma lei?",
+    "context": {
+        "sentences": [
+            ["Em alguns casos especiais, todavia, a lei pode ter vigência temporária e cessará, então, por causas intrínsecas, tais como: a) Advento do termo fixado para sua duração. Algumas leis, por sua natureza, são destinadas a viger apenas durante certo período, como as disposições transitórias e as leis orçamentárias. Outras, prefixam expressamente a sua duração. b) Implemento de condição resolutiva. A lei perde sua vigência em virtude de condição quando se trata de lei especial vinculada a uma situação determinada, como ao período de guerra, por exemplo, estando sujeita a uma condição resolutiva, qual seja, o término desta. c) Consecução de seus fins. Cessa a vigência da lei destinada a um determinado fim quando este se realiza. Assim, por exemplo, a que concedeu indenização a familiares de pessoas envolvidas na Revolução de 1964 perdeu a sua eficácia no momento em que as indenizações foram pagas."],
+            ["a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II)."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."]
+        ],
+        "title": ["cessação_da_vigência", "causas_intrínsecas"]
+    },
+    "oracle_context": "Em alguns casos especiais, todavia, a lei pode ter vigência temporária e cessará, então, por causas intrínsecas, tais como: a) Advento do termo fixado para sua duração. Algumas leis, por sua natureza, são destinadas a viger apenas durante certo período, como as disposições transitórias e as leis orçamentárias. Outras, prefixam expressamente a sua duração. b) Implemento de condição resolutiva. A lei perde sua vigência em virtude de condição quando se trata de lei especial vinculada a uma situação determinada, como ao período de guerra, por exemplo, estando sujeita a uma condição resolutiva, qual seja, o término desta. c) Consecução de seus fins. Cessa a vigência da lei destinada a um determinado fim quando este se realiza. Assim, por exemplo, a que concedeu indenização a familiares de pessoas envolvidas na Revolução de 1964 perdeu a sua eficácia no momento em que as indenizações foram pagas.",
+    "cot_answer": "Para responder à pergunta, precisamos entender as causas intrínsecas que podem levar à cessação da vigência de uma lei. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Em alguns casos especiais, todavia, a lei pode ter vigência temporária e cessará, então, por causas intrínsecas, tais como: a) Advento do termo fixado para sua duração. Algumas leis, por sua natureza, são destinadas a viger apenas durante certo período, como as disposições transitórias e as leis orçamentárias. Outras, prefixam expressamente a sua duração. b) Implemento de condição resolutiva. A lei perde sua vigência em virtude de condição quando se trata de lei especial vinculada a uma situação determinada, como ao período de guerra, por exemplo, estando sujeita a uma condição resolutiva, qual seja, o término desta. c) Consecução de seus fins. Cessa a vigência da lei destinada a um determinado fim quando este se realiza. Assim, por exemplo, a que concedeu indenização a familiares de pessoas envolvidas na Revolução de 1964 perdeu a sua eficácia no momento em que as indenizações foram pagas.\"\n##end_quote##\n\nPortanto, as causas intrínsecas que podem levar à cessação da vigência de uma lei incluem: advento do termo fixado para sua duração, implemento de condição resolutiva e consecução de seus fins.\n\n<RESPOSTA>: As causas intrínsecas que podem levar à cessação da vigência de uma lei incluem: advento do termo fixado para sua duração, implemento de condição resolutiva e consecução de seus fins.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as causas intrínsecas que podem levar à cessação da vigência de uma lei? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_026",
+    "type": "direito",
+    "question": "Qual é a importância da publicação no Diário Oficial para a vigência das leis?",
+    "context": {
+        "sentences": [
+            ["Embora nasça com a promulgação, a lei só começa a vigorar com sua publicação no Diário Oficial."],
+            ["Com a publicação, tem-se o início da vigência, tornando-se obrigatória, pois ninguém pode escusar-se de cumpri-la alegando que não a conhece (LINDB, art. 3º)."],
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."]
+        ],
+        "title": ["publicação", "vigência"]
+    },
+    "oracle_context": "Embora nasça com a promulgação, a lei só começa a vigorar com sua publicação no Diário Oficial.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a importância da publicação no Diário Oficial para a vigência das leis. O contexto nos diz que, embora a lei nasça com a promulgação, ela só começa a vigorar com sua publicação no Diário Oficial.\n\n##begin_quote##\n\"Embora nasça com a promulgação, só começa a vigorar com sua publicação no Diário Oficial.\"\n##end_quote##\n\nPortanto, a publicação no Diário Oficial é essencial para a vigência das leis, pois é a partir desse momento que a lei se torna obrigatória e conhecida por todos.\n\n<RESPOSTA>: A publicação no Diário Oficial é essencial para a vigência das leis, pois é a partir desse momento que a lei se torna obrigatória e conhecida por todos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a importância da publicação no Diário Oficial para a vigência das leis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_027",
+    "type": "direito",
+    "question": "O que acontece quando uma lei é emendada após sua entrada em vigor?",
+    "context": {
+        "sentences": [
+            ["Se a lei já entrou em vigor, tais correções são consideradas lei nova, tornando-se obrigatória após o decurso da vacatio legis (LINDB, art. 1º, § 4º)."],
+            ["Mas, pelo fato de a lei emendada, mesmo com incorreções, ter adquirido força obrigatória, os direitos adquiridos na sua vigência têm de ser resguardados, e não são atingidos pela publicação do texto corrigido."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."]
+        ],
+        "title": ["emenda", "vigência"]
+    },
+    "oracle_context": "Se a lei já entrou em vigor, tais correções são consideradas lei nova, tornando-se obrigatória após o decurso da vacatio legis (LINDB, art. 1º, § 4º).",
+    "cot_answer": "Para responder à pergunta, precisamos entender o procedimento quando uma lei é emendada após sua entrada em vigor. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Se a lei já entrou em vigor, tais correções são consideradas lei nova, tornando-se obrigatória após o decurso da vacatio legis (LINDB, art. 1º, § 4º).\"\n##end_quote##\n\nPortanto, quando uma lei é emendada após sua entrada em vigor, as correções são consideradas uma nova lei, que se torna obrigatória após o decurso da vacatio legis.\n\n<RESPOSTA>: Quando uma lei é emendada após sua entrada em vigor, as correções são consideradas uma nova lei, que se torna obrigatória após o decurso da vacatio legis.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que acontece quando uma lei é emendada após sua entrada em vigor? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_028",
+    "type": "direito",
+    "question": "Quais são os tipos de revogação de uma lei mencionados na LINDB?",
+    "context": {
+        "sentences": [
+            ["A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial. A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."],
+            ["Tal dispositivo visa garantir a eficácia global da ordem jurídica, que estaria comprometida se se admitisse a alegação de ignorância de lei vigente."]
+        ],
+        "title": ["revogação_total", "revogação_parcial"]
+    },
+    "oracle_context": "A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parciaA revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial. A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante.",
+    "cot_answer": "Para responder à pergunta, precisamos entender os tipos de revogação de uma lei mencionados na LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial.\"\n##end_quote##\n\nPortanto, os tipos de revogação de uma lei mencionados na LINDB são: revogação total (ab-rogação) e revogação parcial (derrogação).\n\n<RESPOSTA>: Os tipos de revogação de uma lei mencionados na LINDB são: revogação total (ab-rogação) e revogação parcial (derrogação).",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os tipos de revogação de uma lei mencionados na LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_029",
+    "type": "direito",
+    "question": "Como a LINDB trata a obrigatoriedade das leis no exterior?",
+    "context": {
+        "sentences": [
+            ["Quando a lei brasileira é admitida no exterior (em geral quando cuida de atribuições de ministros, embaixadores, cônsules, convenções de direito internacional etc.), a sua obrigatoriedade inicia-se três meses depois de oficialmente publicada."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."],
+            ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+        ],
+        "title": ["obrigatoriedade_no_exterior"]
+    },
+    "oracle_context": "Quando a lei brasileira é admitida no exterior (em geral quando cuida de atribuições de ministros, embaixadores, cônsules, convenções de direito internacional etc.), a sua obrigatoriedade inicia-se três meses depois de oficialmente publicada.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB trata a obrigatoriedade das leis no exterior. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Quando a lei brasileira é admitida no exterior (em geral quando cuida de atribuições de ministros, embaixadores, cônsules, convenções de direito internacional etc.), a sua obrigatoriedade inicia-se três meses depois de oficialmente publicada.\"\n##end_quote##\n\nPortanto, a LINDB determina que a obrigatoriedade das leis brasileiras no exterior começa três meses após sua publicação oficial.\n\n<RESPOSTA>: A LINDB determina que a obrigatoriedade das leis brasileiras no exterior começa três meses após sua publicação oficial.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB trata a obrigatoriedade das leis no exterior? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_030",
+    "type": "direito",
+    "question": "O que é a revogação tácita de uma lei e como ela ocorre?",
+    "context": {
+        "sentences": [
+            ["Tácita, quando não contém declaração nesse sentido, mas mostra-se incompatível com a lei antiga ou regula inteiramente a matéria de que tratava a lei anterior (art. 2º, § 1º, última parte)."],
+            ["A revogação, neste caso, ocorre por via oblíqua ou indireta."],
+            ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência. Malgrado a jurisprudência, para alguns, não possa ser considerada, cientificamente, fonte formal de direito, mas somente fonte meramente intelectual ou informativa (não formal), a realidade é que, no plano da realidade prática, ela tem-se revelado fonte criadora do direito."]
+        ],
+        "title": ["revogação_tácita"]
+    },
+    "oracle_context": "Tácita, quando não contém declaração nesse sentido, mas mostra-se incompatível com a lei antiga ou regula inteiramente a matéria de que tratava a lei anterior (art. 2º, § 1º, última parte).",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que é a revogação tácita de uma lei e como ela ocorre. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Tácita, quando não contém declaração nesse sentido, mas mostra-se incompatível com a lei antiga ou regula inteiramente a matéria de que tratava a lei anterior (art. 2º, § 1º, última parte).\"\n##end_quote##\n\nPortanto, a revogação tácita de uma lei ocorre quando a nova lei não contém declaração explícita de revogação, mas é incompatível com a lei antiga ou regula inteiramente a matéria de que tratava a lei anterior.\n\n<RESPOSTA>: A revogação tácita de uma lei ocorre quando a nova lei não contém declaração explícita de revogação, mas é incompatível com a lei antiga ou regula inteiramente a matéria de que tratava a lei anterior.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é a revogação tácita de uma lei e como ela ocorre? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_031",
+    "type": "direito",
+    "question": "O que é a repristinação de uma lei segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["O nosso direito não admite, como regra, a repristinação, que é a restauração da lei revogada pelo fato da lei revogadora ter perdido a sua vigência."],
+            ["Preceitua, com efeito, o § 3º do art. 2º da Lei de Introdução às Normas do Direito Brasileiro que, “salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência”."],
+            ["Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, 'começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada.' Portanto, a obrigatoriedade da lei não se inicia no dia da publicação, salvo se ela própria assim o determinar."]
+        ],
+        "title": ["repristinação"]
+    },
+    "oracle_context": "O nosso direito não admite, como regra, a repristinação, que é a restauração da lei revogada pelo fato da lei revogadora ter perdido a sua vigência.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o conceito de repristinação segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O nosso direito não admite, como regra, a repristinação, que é a restauração da lei revogada pelo fato da lei revogadora ter perdido a sua vigência.\"\n##end_quote##\n\nPortanto, a repristinação é a restauração de uma lei revogada pelo fato de a lei revogadora ter perdido a vigência. Segundo a LINDB, essa prática não é admitida como regra, salvo disposição em contrário.\n\n<RESPOSTA>: A repristinação é a restauração de uma lei revogada pelo fato de a lei revogadora ter perdido a vigência. Segundo a LINDB, essa prática não é admitida como regra, salvo disposição em contrário.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é a repristinação de uma lei segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_032",
+    "type": "direito",
+    "question": "Quais são os critérios para resolver conflitos de normas segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["Além dos critérios cronológico e hierárquico já mencionados, destinados a solucionar antinomias aparentes ou conflitos normativos, desponta na ordem jurídica o da especialidade (lex specialis derogat legi generali), pelo qual a norma especial revoga a geral quando disciplinar, de forma diversa, o mesmo assunto."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."],
+            ["O conteúdo desse verdadeiro Código de Normas extravasa o âmbito do direito civil por abranger princípios que regem a aplicação das normas de direito privado e de direito público no tempo e no espaço (arts. 1º a 6º) e por conter normas de direito internacional privado (arts. 7º a 19)."]
+        ],
+        "title": ["critérios_de_resolução"]
+    },
+    "oracle_context": "Além dos critérios cronológico e hierárquico já mencionados, destinados a solucionar antinomias aparentes ou conflitos normativos, desponta na ordem jurídica o da especialidade (lex specialis derogat legi generali), pelo qual a norma especial revoga a geral quando disciplinar, de forma diversa, o mesmo assunto.",
+    "cot_answer": "Para responder à pergunta, precisamos entender os critérios para resolver conflitos de normas segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Além dos critérios cronológico e hierárquico já mencionados, destinados a solucionar antinomias aparentes ou conflitos normativos, desponta na ordem jurídica o da especialidade (lex specialis derogat legi generali), pelo qual a norma especial revoga a geral quando disciplinar, de forma diversa, o mesmo assunto.\"\n##end_quote##\n\nPortanto, os critérios para resolver conflitos de normas segundo a LINDB são: critério cronológico, critério hierárquico e critério da especialidade.\n\n<RESPOSTA>: Os critérios para resolver conflitos de normas segundo a LINDB são: critério cronológico, critério hierárquico e critério da especialidade.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os critérios para resolver conflitos de normas segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_033",
+    "type": "direito",
+    "question": "Como a LINDB define a eficácia de uma lei?",
+    "context": {
+        "sentences": [
+            ["Registre-se que o vigor e a vigência não se confundem com a eficácia da lei. Esta é uma qualidade da norma que se refere à sua adequação em vista da produção concreta de efeitos."],
+            ["A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse."],
+            ["Jellinek o define como o interesse protegido que a vontade tem o poder de realizar."]
+        ],
+        "title": ["eficácia"]
+    },
+    "oracle_context": "Registre-se que o vigor e a vigência não se confundem com a eficácia da lei. Esta é uma qualidade da norma que se refere à sua adequação em vista da produção concreta de efeitos.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB define a eficácia de uma lei. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Registre-se que o vigor e a vigência não se confundem com a eficácia da lei. Esta é uma qualidade da norma que se refere à sua adequação em vista da produção concreta de efeitos.\"\n##end_quote##\n\nPortanto, a eficácia de uma lei é a qualidade da norma que se refere à sua adequação em vista da produção concreta de efeitos.\n\n<RESPOSTA>: A eficácia de uma lei é a qualidade da norma que se refere à sua adequação em vista da produção concreta de efeitos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB define a eficácia de uma lei? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_034",
+    "type": "direito",
+    "question": "Qual é a relação entre vigência e vigor de uma lei segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante. Por exemplo, o Código Civil de 1916, que não tem mais vigência, por estar revogado, embora ainda possua vigor."],
+            ["a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II)."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."]
+            
+        ],
+        "title": ["vigência", "vigor"]
+    },
+    "oracle_context": "É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante. Por exemplo, o Código Civil de 1916, que não tem mais vigência, por estar revogado, embora ainda possua vigor.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a relação entre vigência e vigor de uma lei segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante.\"\n##end_quote##\n\nPortanto, vigência refere-se ao período de tempo durante o qual a lei está em efeito, enquanto vigor refere-se à sua força obrigatória e vinculante.\n\n<RESPOSTA>: Vigência refere-se ao período de tempo durante o qual a lei está em efeito, enquanto vigor refere-se à sua força obrigatória e vinculante.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a relação entre vigência e vigor de uma lei segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_035",
+    "type": "direito",
+    "question": "Como a LINDB define a revogação expressa de uma lei?",
+    "context": {
+        "sentences": [
+            ["Expressa, quando a lei nova declara, de modo taxativo e inequívoco, que a lei anterior, ou parte dela, fica revogada (LINDB, art. 2º, § 1º, primeira parte)."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."],
+            ["Tal dispositivo visa garantir a eficácia global da ordem jurídica, que estaria comprometida se se admitisse a alegação de ignorância de lei vigente."]
+        ],
+        "title": ["revogação_expressa"]
+    },
+    "oracle_context": "Expressa, quando a lei nova declara, de modo taxativo e inequívoco, que a lei anterior, ou parte dela, fica revogada (LINDB, art. 2º, § 1º, primeira parte).",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB define a revogação expressa de uma lei. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Expressa, quando a lei nova declara, de modo taxativo e inequívoco, que a lei anterior, ou parte dela, fica revogada (LINDB, art. 2º, § 1º, primeira parte).\"\n##end_quote##\n\nPortanto, a revogação expressa de uma lei ocorre quando uma nova lei declara de forma taxativa e inequívoca que a lei anterior, ou parte dela, está revogada.\n\n<RESPOSTA>: A revogação expressa de uma lei ocorre quando uma nova lei declara de forma taxativa e inequívoca que a lei anterior, ou parte dela, está revogada.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB define a revogação expressa de uma lei? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_036",
+    "type": "direito",
+    "question": "Quais são as diferenças entre revogação total e revogação parcial de uma lei segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante."],
+            ["Quando a lei brasileira é admitida no exterior (em geral quando cuida de atribuições de ministros, embaixadores, cônsules, convenções de direito internacional etc.), a sua obrigatoriedade inicia-se três meses depois de oficialmente publicada."],
+            ["Fontes históricas são aquelas das quais se socorrem os estudiosos, quando querem investigar a origem histórica de um instituto jurídico ou de um sistema, como a Lei das XII Tábuas, o Digesto, as Institutas, o Corpus Juris Civilis, as Ordenações do Reino etc."]
+        ],
+        "title": ["revogação_total", "revogação_parcial"]
+    },
+    "oracle_context": "A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante.",
+    "cot_answer": "Para responder à pergunta, precisamos entender as diferenças entre revogação total e revogação parcial de uma lei segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante.\"\n##end_quote##\n\nPortanto, a revogação total, ou ab-rogação, consiste na supressão integral da norma anterior, enquanto a revogação parcial, ou derrogação, atinge apenas uma parte da norma, que continua em vigor no restante.\n\n<RESPOSTA>: A revogação total, ou ab-rogação, consiste na supressão integral da norma anterior, enquanto a revogação parcial, ou derrogação, atinge apenas uma parte da norma, que continua em vigor no restante.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as diferenças entre revogação total e revogação parcial de uma lei segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_037",
+    "type": "direito",
+    "question": "O que é a vacatio legis e qual é sua duração padrão segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis. Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”."],
+            ["A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial. A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."]
+        ],
+        "title": ["vacatio_legis"]
+    },
+    "oracle_context": "O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis. Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o conceito de vacatio legis e sua duração padrão segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis. Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”.\"\n##end_quote##\n\nPortanto, vacatio legis é o intervalo entre a data de publicação da lei e sua entrada em vigor, com uma duração padrão de 45 dias, salvo disposição contrária.\n\n<RESPOSTA>: Vacatio legis é o intervalo entre a data de publicação da lei e sua entrada em vigor, com uma duração padrão de 45 dias, salvo disposição contrária.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é a vacatio legis e qual é sua duração padrão segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_038",
+    "type": "direito",
+    "question": "Qual é o papel da publicação oficial na correção de erros materiais durante a vacatio legis?",
+    "context": {
+        "sentences": [
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."],
+            ["O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis."],
+            ["Segundo dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro, a lei, salvo disposição contrária, “começa a vigorar em todo o País 45 (quarenta e cinco) dias depois de oficialmente publicada”."]
+        ],
+        "title": ["publicação_oficial"]
+    },
+    "oracle_context": "Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º).",
+    "cot_answer": "Para responder à pergunta, precisamos entender o papel da publicação oficial na correção de erros materiais durante a vacatio legis. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º).\"\n##end_quote##\n\nPortanto, a publicação oficial tem o papel de reiniciar o prazo da vacatio legis em caso de correção de erros materiais ou falhas de ortografia, garantindo que a parte corrigida da lei seja conhecida antes de sua entrada em vigor.\n\n<RESPOSTA>: A publicação oficial tem o papel de reiniciar o prazo da vacatio legis em caso de correção de erros materiais ou falhas de ortografia, garantindo que a parte corrigida da lei seja conhecida antes de sua entrada em vigor.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o papel da publicação oficial na correção de erros materiais durante a vacatio legis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_039",
+    "type": "direito",
+    "question": "O que diz a LINDB sobre a retroatividade das leis?",
+    "context": {
+        "sentences": [
+            ["Malgrado respeitáveis opiniões em contrário, que pretendem dar caráter retroativo à parte vetada da lei, invocando o argumento da unidade do texto legislativo, os dispositivos vetados só devem entrar em vigor no momento da sua publicação, pois o veto tem caráter suspensivo e os artigos não publicados não se tornaram conhecidos."],
+            ["Quando a lei brasileira é admitida no exterior (em geral quando cuida de atribuições de ministros, embaixadores, cônsules, convenções de direito internacional etc.), a sua obrigatoriedade inicia-se três meses depois de oficialmente publicada."],
+            ["O intervalo entre a data de sua publicação e a sua entrada em vigor denomina-se vacatio legis."]
+        ],
+        "title": ["retroatividade"]
+    },
+    "oracle_context": "Malgrado respeitáveis opiniões em contrário, que pretendem dar caráter retroativo à parte vetada da lei, invocando o argumento da unidade do texto legislativo, os dispositivos vetados só devem entrar em vigor no momento da sua publicação, pois o veto tem caráter suspensivo e os artigos não publicados não se tornaram conhecidos.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que a LINDB diz sobre a retroatividade das leis. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Malgrado respeitáveis opiniões em contrário, que pretendem dar caráter retroativo à parte vetada da lei, invocando o argumento da unidade do texto legislativo, os dispositivos vetados só devem entrar em vigor no momento da sua publicação, pois o veto tem caráter suspensivo e os artigos não publicados não se tornaram conhecidos.\"\n##end_quote##\n\nPortanto, a LINDB afirma que os dispositivos vetados de uma lei não têm caráter retroativo e só entram em vigor no momento de sua publicação, uma vez que o veto tem caráter suspensivo.\n\n<RESPOSTA>: A LINDB afirma que os dispositivos vetados de uma lei não têm caráter retroativo e só entram em vigor no momento de sua publicação, uma vez que o veto tem caráter suspensivo.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que diz a LINDB sobre a retroatividade das leis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_040",
+    "type": "direito",
+    "question": "O que a LINDB determina sobre a obrigatoriedade das leis?",
+    "context": {
+        "sentences": [
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."],
+            ["Tal dispositivo visa garantir a eficácia global da ordem jurídica, que estaria comprometida se se admitisse a alegação de ignorância de lei vigente."],
+            ["Preceitua, com efeito, o § 3º do art. 2º da Lei de Introdução às Normas do Direito Brasileiro que, “salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência”."]
+        ],
+        "title": ["obrigatoriedade"]
+    },
+    "oracle_context": "O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que a LINDB determina sobre a obrigatoriedade das leis. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: 'Ninguém se escusa de cumprir a lei, alegando que não a conhece'.\"\n##end_quote##\n\nPortanto, a LINDB determina que ninguém pode se escusar de cumprir a lei alegando desconhecimento, consagrando o princípio da obrigatoriedade para garantir a eficácia global da ordem jurídica.\n\n<RESPOSTA>: A LINDB determina que ninguém pode se escusar de cumprir a lei alegando desconhecimento, consagrando o princípio da obrigatoriedade para garantir a eficácia global da ordem jurídica.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que a LINDB determina sobre a obrigatoriedade das leis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_041",
+    "type": "direito",
+    "question": "O que são disposições transitórias e qual é sua função?",
+    "context": {
+        "sentences": [
+            ["Disposições transitórias são elaboradas pelo legislador, no próprio texto normativo, destinadas a evitar e a solucionar conflitos que poderão emergir do confronto da nova lei com a antiga, tendo vigência temporária."],
+            ["O Código Civil de 2002, por exemplo, no livro complementar 'Das disposições finais e transitórias' (arts. 2.028 a 2.046), contém vários dispositivos com esse objetivo."],
+            ["O conteúdo desse verdadeiro Código de Normas extravasa o âmbito do direito civil por abranger princípios que regem a aplicação das normas de direito privado e de direito público no tempo e no espaço (arts. 1º a 6º) e por conter normas de direito internacional privado (arts. 7º a 19)."]
+        ],
+        "title": ["disposições_transitórias"]
+    },
+    "oracle_context": "Disposições transitórias são elaboradas pelo legislador, no próprio texto normativo, destinadas a evitar e a solucionar conflitos que poderão emergir do confronto da nova lei com a antiga, tendo vigência temporária.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o conceito e a função das disposições transitórias. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Disposições transitórias são elaboradas pelo legislador, no próprio texto normativo, destinadas a evitar e a solucionar conflitos que poderão emergir do confronto da nova lei com a antiga, tendo vigência temporária.\"\n##end_quote##\n\nPortanto, disposições transitórias são normas elaboradas pelo legislador para evitar e solucionar conflitos entre a nova lei e a antiga, tendo uma vigência temporária.\n\n<RESPOSTA>: Disposições transitórias são normas elaboradas pelo legislador para evitar e solucionar conflitos entre a nova lei e a antiga, tendo uma vigência temporária.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que são disposições transitórias e qual é sua função? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_042",
+    "type": "direito",
+    "question": "Qual é o princípio da irretroatividade das normas e por que ele é importante?",
+    "context": {
+        "sentences": [
+            ["Irretroativa é a lei que não se aplica às situações constituídas anteriormente. É um princípio que objetiva assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico-positivo, preservando as situações consolidadas em que o interesse individual prevalece."],
+            ["É certo, pois, que o termo vigência está relacionado ao tempo de duração da lei, ao passo que vigor está relacionado à sua força vinculante. Por exemplo, o Código Civil de 1916, que não tem mais vigência, por estar revogado, embora ainda possua vigor."],
+            ["a) Mais que perfeitas — são as que estabelecem ou autorizam a aplicação de duas sanções, na hipótese de serem violadas. O art. 19 da Lei de Alimentos (Lei n. 5.478, de 25-7-1968) e seu § 1º preveem, por exemplo, a pena de prisão para o devedor de pensão alimentícia e ainda a obrigação de pagar as prestações vencidas e vincendas, sendo que o cumprimento integral da pena corporal não o eximirá da referida obrigação. Em alguns casos, uma das sanções é de natureza penal, como a prevista para o crime de bigamia (CP, art. 235), aplicada cumulativamente com a declaração, no cível, de nulidade do casamento (CC, arts. 1.521, VI, e 1.548, II)."]
+        ],
+        "title": ["irretroatividade"]
+    },
+    "oracle_context": "Irretroativa é a lei que não se aplica às situações constituídas anteriormente. É um princípio que objetiva assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico-positivo, preservando as situações consolidadas em que o interesse individual prevalece.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o princípio da irretroatividade das normas e sua importância. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Irretroativa é a lei que não se aplica às situações constituídas anteriormente. É um princípio que objetiva assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico-positivo, preservando as situações consolidadas em que o interesse individual prevalece.\"\n##end_quote##\n\nPortanto, o princípio da irretroatividade das normas estabelece que a lei não se aplica a situações constituídas anteriormente, assegurando a certeza, segurança e estabilidade do ordenamento jurídico, preservando situações consolidadas.\n\n<RESPOSTA>: O princípio da irretroatividade das normas estabelece que a lei não se aplica a situações constituídas anteriormente, assegurando a certeza, segurança e estabilidade do ordenamento jurídico, preservando situações consolidadas.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o princípio da irretroatividade das normas e por que ele é importante? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_043",
+    "type": "direito",
+    "question": "O que diz a Constituição Federal de 1988 e a Lei de Introdução às Normas do Direito Brasileiro sobre a retroatividade das leis?",
+    "context": {
+        "sentences": [
+            ["A Constituição Federal de 1988 (art. 5º, XXXVI) e a Lei de Introdução ao Código Civil (atual Lei de Introdução às Normas do Direito Brasileiro), afinadas com a tendência contemporânea, adotaram, com efeito, o princípio da irretroatividade das leis, como regra, e o da retroatividade como exceção."],
+            ["A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse."],
+            ["Jellinek o define como o interesse protegido que a vontade tem o poder de realizar."]
+        ],
+        "title": ["retroatividade"]
+    },
+    "oracle_context": "A Constituição Federal de 1988 (art. 5º, XXXVI) e a Lei de Introdução ao Código Civil (atual Lei de Introdução às Normas do Direito Brasileiro), afinadas com a tendência contemporânea, adotaram, com efeito, o princípio da irretroatividade das leis, como regra, e o da retroatividade como exceção.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o que a Constituição Federal de 1988 e a Lei de Introdução às Normas do Direito Brasileiro dizem sobre a retroatividade das leis. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A Constituição Federal de 1988 (art. 5º, XXXVI) e a Lei de Introdução ao Código Civil (atual Lei de Introdução às Normas do Direito Brasileiro), afinadas com a tendência contemporânea, adotaram, com efeito, o princípio da irretroatividade das leis, como regra, e o da retroatividade como exceção.\"\n##end_quote##\n\nPortanto, a Constituição Federal de 1988 e a Lei de Introdução às Normas do Direito Brasileiro adotam o princípio da irretroatividade das leis como regra, e o da retroatividade como exceção.\n\n<RESPOSTA>: A Constituição Federal de 1988 e a Lei de Introdução às Normas do Direito Brasileiro adotam o princípio da irretroatividade das leis como regra, e o da retroatividade como exceção.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que diz a Constituição Federal de 1988 e a Lei de Introdução às Normas do Direito Brasileiro sobre a retroatividade das leis? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_044",
+    "type": "direito",
+    "question": "Quais são as exceções à irretroatividade das leis conforme mencionado no contexto?",
+    "context": {
+        "sentences": [
+            ["Malgrado a retroatividade da lei seja severamente criticada, essa é uma questão essencialmente política."],
+            ["Há casos em que o interesse social, o progresso ou a equidade justificam tal efeito atribuído à lei nova."],
+            ["A existência de incompatibilidade conduz à possível revogação da lei geral pela especial, ou da lei especial pela geral."]
+        ],
+        "title": ["exceções_irretroatividade"]
+    },
+    "oracle_context": "Há casos em que o interesse social, o progresso ou a equidade justificam tal efeito atribuído à lei nova.",
+    "cot_answer": "Para responder à pergunta, precisamos entender as exceções à irretroatividade das leis conforme mencionado no contexto. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Há casos em que o interesse social, o progresso ou a equidade justificam tal efeito atribuído à lei nova.\"\n##end_quote##\n\nPortanto, as exceções à irretroatividade das leis incluem situações em que o interesse social, o progresso ou a equidade justificam a retroatividade da nova lei.\n\n<RESPOSTA>: As exceções à irretroatividade das leis incluem situações em que o interesse social, o progresso ou a equidade justificam a retroatividade da nova lei.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as exceções à irretroatividade das leis conforme mencionado no contexto? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_045",
+    "type": "direito",
+    "question": "Como a retroatividade das leis é classificada e quais são as diferenças entre essas classificações?",
+    "context": {
+        "sentences": [
+            ["A retroatividade pode ser ainda máxima, média e mínima. A primeira atinge o direito adquirido e afeta negócios jurídicos perfeitos; a segunda faz com que a lei nova alcance os fatos pendentes, os direitos já existentes mas ainda não integrados no patrimônio do titular; a terceira se configura quando a lei nova afeta apenas os efeitos dos atos anteriores, mas produzidos após a data em que ela entrou em vigor."],
+            ["A Constituição Federal de 1988 (art. 5º, XXXVI) e a Lei de Introdução ao Código Civil (atual Lei de Introdução às Normas do Direito Brasileiro), afinadas com a tendência contemporânea, adotaram, com efeito, o princípio da irretroatividade das leis, como regra, e o da retroatividade como exceção."],
+            ["O nosso direito não admite, como regra, a repristinação, que é a restauração da lei revogada pelo fato da lei revogadora ter perdido a sua vigência."]
+        ],
+        "title": ["classificação_retroatividade"]
+    },
+    "oracle_context": "A retroatividade pode ser ainda máxima, média e mínima. A primeira atinge o direito adquirido e afeta negócios jurídicos perfeitos; a segunda faz com que a lei nova alcance os fatos pendentes, os direitos já existentes mas ainda não integrados no patrimônio do titular; a terceira se configura quando a lei nova afeta apenas os efeitos dos atos anteriores, mas produzidos após a data em que ela entrou em vigor.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a retroatividade das leis é classificada e as diferenças entre essas classificações. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A retroatividade pode ser ainda máxima, média e mínima. A primeira atinge o direito adquirido e afeta negócios jurídicos perfeitos; a segunda faz com que a lei nova alcance os fatos pendentes, os direitos já existentes mas ainda não integrados no patrimônio do titular; a terceira se configura quando a lei nova afeta apenas os efeitos dos atos anteriores, mas produzidos após a data em que ela entrou em vigor.\"\n##end_quote##\n\nPortanto, a retroatividade das leis é classificada em máxima, média e mínima, diferenciando-se pelo grau de impacto que a nova lei tem sobre os direitos adquiridos, negócios jurídicos perfeitos e efeitos de atos anteriores.\n\n<RESPOSTA>: A retroatividade das leis é classificada em máxima, média e mínima, diferenciando-se pelo grau de impacto que a nova lei tem sobre os direitos adquiridos, negócios jurídicos perfeitos e efeitos de atos anteriores.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a retroatividade das leis é classificada e quais são as diferenças entre essas classificações? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_046",
+    "type": "direito",
+    "question": "O que é um ato jurídico perfeito segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["Ato jurídico perfeito é o já consumado segundo a lei vigente ao tempo em que se efetuou (LINDB art. 6º, § 1º), produzindo seus efeitos jurídicos, uma vez que o direito gerado foi exercido."],
+            ["A teoria mista, ou eclética, conjuga o elemento vontade com o elemento interesse."],
+            ["Jellinek o define como o interesse protegido que a vontade tem o poder de realizar."]
+        ],
+        "title": ["ato_jurídico_perfeito"]
+    },
+    "oracle_context": "Ato jurídico perfeito é o já consumado segundo a lei vigente ao tempo em que se efetuou (LINDB art. 6º, § 1º), produzindo seus efeitos jurídicos, uma vez que o direito gerado foi exercido.",
+    "cot_answer": "Para responder à pergunta, precisamos entender o conceito de ato jurídico perfeito segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Ato jurídico perfeito é o já consumado segundo a lei vigente ao tempo em que se efetuou (LINDB art. 6º, § 1º), produzindo seus efeitos jurídicos, uma vez que o direito gerado foi exercido.\"\n##end_quote##\n\nPortanto, segundo a LINDB, ato jurídico perfeito é aquele que já foi consumado de acordo com a lei vigente no momento em que foi realizado, produzindo seus efeitos jurídicos.\n\n<RESPOSTA>: Segundo a LINDB, ato jurídico perfeito é aquele que já foi consumado de acordo com a lei vigente no momento em que foi realizado, produzindo seus efeitos jurídicos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é um ato jurídico perfeito segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_047",
+    "type": "direito",
+    "question": "Como a LINDB define o direito adquirido?",
+    "context": {
+        "sentences": [
+            ["Direito adquirido é o que já se incorporou definitivamente ao patrimônio e à personalidade de seu titular, não podendo lei nem fato posterior alterar tal situação jurídica."],
+            ["A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial. A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."]
+        ],
+        "title": ["direito_adquirido"]
+    },
+    "oracle_context": "Direito adquirido é o que já se incorporou definitivamente ao patrimônio e à personalidade de seu titular, não podendo lei nem fato posterior alterar tal situação jurídica.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a definição de direito adquirido segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Direito adquirido é o que já se incorporou definitivamente ao patrimônio e à personalidade de seu titular, não podendo lei nem fato posterior alterar tal situação jurídica.\"\n##end_quote##\n\nPortanto, segundo a LINDB, direito adquirido é aquele que já se incorporou definitivamente ao patrimônio e à personalidade de seu titular, não podendo ser alterado por lei ou fato posterior.\n\n<RESPOSTA>: Segundo a LINDB, direito adquirido é aquele que já se incorporou definitivamente ao patrimônio e à personalidade de seu titular, não podendo ser alterado por lei ou fato posterior.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB define o direito adquirido? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_048",
+    "type": "direito",
+    "question": "Qual é a definição de coisa julgada segundo a LINDB?",
+    "context": {
+        "sentences": [
+            ["Coisa julgada é a imutabilidade dos efeitos da sentença, não mais sujeita a recursos."],
+            ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+            ["O direito penal admite a analogia somente in bonam partem."]
+        ],
+        "title": ["coisa_julgada"]
+    },
+    "oracle_context": "Coisa julgada é a imutabilidade dos efeitos da sentença, não mais sujeita a recursos.",
+    "cot_answer": "Para responder à pergunta, precisamos entender a definição de coisa julgada segundo a LINDB. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"Coisa julgada é a imutabilidade dos efeitos da sentença, não mais sujeita a recursos.\"\n##end_quote##\n\nPortanto, segundo a LINDB, coisa julgada é a imutabilidade dos efeitos da sentença, que não está mais sujeita a recursos.\n\n<RESPOSTA>: Segundo a LINDB, coisa julgada é a imutabilidade dos efeitos da sentença, que não está mais sujeita a recursos.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a definição de coisa julgada segundo a LINDB? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_049",
+    "type": "direito",
+    "question": "Como a LINDB aborda a imediata e geral aplicação da lei nova?",
+    "context": {
+        "sentences": [
+            ["O art. 6º da Lei de Introdução às Normas do Direito Brasileiro preceitua que a lei em vigor 'terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada'."],
+            ["A revogação da lei (gênero), quanto à sua extensão, pode ser de duas espécies: total ou parcial. A revogação total é também denominada ab-rogação. Consiste na supressão integral da norma anterior. A revogação parcial denomina-se derrogação. Atinge só uma parte da norma, que permanece em vigor no restante."],
+            ["O art. 3º da Lei de Introdução às Normas do Direito Brasileiro consagra o princípio da obrigatoriedade (ignorantia legis neminem excusat), prescrevendo: “Ninguém se escusa de cumprir a lei, alegando que não a conhece”."]
+
+        ],
+        "title": ["aplicação_imediata"]
+    },
+    "oracle_context": "O art. 6º da Lei de Introdução às Normas do Direito Brasileiro preceitua que a lei em vigor 'terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada'.",
+    "cot_answer": "Para responder à pergunta, precisamos entender como a LINDB aborda a imediata e geral aplicação da lei nova. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"O art. 6º da Lei de Introdução às Normas do Direito Brasileiro preceitua que a lei em vigor 'terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada'.\"\n##end_quote##\n\nPortanto, segundo a LINDB, a lei em vigor terá efeito imediato e geral, mas respeitando o ato jurídico perfeito, o direito adquirido e a coisa julgada.\n\n<RESPOSTA>: Segundo a LINDB, a lei em vigor terá efeito imediato e geral, mas respeitando o ato jurídico perfeito, o direito adquirido e a coisa julgada.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a LINDB aborda a imediata e geral aplicação da lei nova? Use as informações contidas nos documentos."
+},
+{
+    "id": "qa_050",
+    "type": "direito",
+    "question": "Em que situações o princípio da coisa julgada pode ser mitigado conforme a jurisprudência brasileira?",
+    "context": {
+        "sentences": [
+            ["A jurisprudência vem mitigando os efeitos da coisa julgada, permitindo a investigação da paternidade quando a anterior ação foi julgada improcedente por insuficiência de provas, sem o exame do mérito. Como assinala Cristiano Chaves de Farias, não se consideram acobertadas com o manto da coisa julgada 'ações nas quais não foram exauridos todos os meios de prova, inclusive científicos (como o DNA), seja por falta de condições das partes interessadas, por incúria dos advogados, por inércia do Estado-Juiz."],
+            ["Com a publicação, tem-se o início da vigência, tornando-se obrigatória, pois ninguém pode escusar-se de cumpri-la alegando que não a conhece (LINDB, art. 3º)."],
+            ["Se durante a vacatio legis ocorrer nova publicação de seu texto, para correção de erros materiais ou falha de ortografia, o prazo da obrigatoriedade começará a correr da nova publicação (LINDB art. 1º, § 3º)."]
+
+        ],
+        "title": ["mitigação_coisa_julgada"]
+    },
+    "oracle_context": "A jurisprudência vem mitigando os efeitos da coisa julgada, permitindo a investigação da paternidade quando a anterior ação foi julgada improcedente por insuficiência de provas, sem o exame do mérito. Como assinala Cristiano Chaves de Farias, não se consideram acobertadas com o manto da coisa julgada 'ações nas quais não foram exauridos todos os meios de prova, inclusive científicos (como o DNA), seja por falta de condições das partes interessadas, por incúria dos advogados, por inércia do Estado-Juiz.",
+    "cot_answer": "Para responder à pergunta, precisamos entender em que situações o princípio da coisa julgada pode ser mitigado conforme a jurisprudência brasileira. O contexto nos fornece essa informação de forma clara.\n\n##begin_quote##\n\"A jurisprudência vem mitigando os efeitos da coisa julgada, permitindo a investigação da paternidade quando a anterior ação foi julgada improcedente por insuficiência de provas, sem o exame do mérito.\"\n##end_quote##\n\nPortanto, a mitigação do princípio da coisa julgada ocorre em situações onde a anterior ação foi julgada improcedente por insuficiência de provas, sem exame do mérito, especialmente em casos de investigação de paternidade.\n\n<RESPOSTA>: A mitigação do princípio da coisa julgada ocorre em situações onde a anterior ação foi julgada improcedente por insuficiência de provas, sem exame do mérito, especialmente em casos de investigação de paternidade.",
+    "instruction": "Leia os documentos fornecidos e responda à pergunta: Em que situações o princípio da coisa julgada pode ser mitigado conforme a jurisprudência brasileira? Use as informações contidas nos documentos."
+}
+]

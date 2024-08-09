@@ -1,0 +1,53 @@
+{
+    "examples": [
+      {
+        "id": "qa_example_1",
+        "type": "general",
+        "question": "Quais foram as principais causas da Segunda Guerra Mundial?",
+        "context": {
+          "sentences": [
+            ["A Segunda Guerra Mundial foi causada por uma série de fatores, incluindo a insatisfação com o Tratado de Versalhes, a ascensão do nazismo na Alemanha, a expansão territorial agressiva da Alemanha e do Japão, e as políticas de apaziguamento das potências ocidentais."],
+            ["A Revolução Industrial foi um período de transição para novos processos de fabricação na Europa e nos Estados Unidos, ocorrendo aproximadamente entre 1760 e 1840."],
+            ["As mudanças climáticas têm causado um aumento significativo na frequência e intensidade de eventos climáticos extremos, como furacões, secas e enchentes."]
+          ],
+          "title": ["história", "história", "história"]
+        },
+        "oracle_context": "A Segunda Guerra Mundial foi causada por uma série de fatores, incluindo a insatisfação com o Tratado de Versalhes, a ascensão do nazismo na Alemanha, a expansão territorial agressiva da Alemanha e do Japão, e as políticas de apaziguamento das potências ocidentais.",
+        "cot_answer": "assistant: Para responder à pergunta, precisamos identificar as principais causas da Segunda Guerra Mundial. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Segunda Guerra Mundial foi causada por uma série de fatores, incluindo a insatisfação com o Tratado de Versalhes, a ascensão do nazismo na Alemanha, a expansão territorial agressiva da Alemanha e do Japão, e as políticas de apaziguamento das potências ocidentais.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as principais causas da Segunda Guerra Mundial foram a insatisfação com o Tratado de Versalhes, a ascensão do nazismo, a expansão territorial da Alemanha e do Japão, e as políticas de apaziguamento das potências ocidentais.\n\n<ANSWER>: As principais causas da Segunda Guerra Mundial foram a insatisfação com o Tratado de Versalhes, a ascensão do nazismo, a expansão territorial da Alemanha e do Japão, e as políticas de apaziguamento das potências ocidentais.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais foram as principais causas da Segunda Guerra Mundial? Use as informações contidas nos documentos."
+      },
+      {
+        "id": "qa_example_2",
+        "type": "general",
+        "question": "Qual é a capital da França?",
+        "context": {
+          "sentences": [
+            ["A capital da França é Paris, conhecida por seus marcos icônicos como a Torre Eiffel e o Museu do Louvre."],
+            ["Londres é a capital do Reino Unido, famosa pelo Big Ben e o Palácio de Buckingham."],
+            ["Berlim é a capital da Alemanha, conhecida pelo Portão de Brandemburgo e a Ilha dos Museus."]
+          ],
+          "title": ["geografia", "geografia", "geografia"]
+        },
+        "oracle_context": "A capital da França é Paris, conhecida por seus marcos icônicos como a Torre Eiffel e o Museu do Louvre.",
+        "cot_answer": "assistant: Para responder à pergunta, precisamos identificar a capital da França. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A capital da França é Paris, conhecida por seus marcos icônicos como a Torre Eiffel e o Museu do Louvre.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a capital da França é Paris.\n\n<ANSWER>: A capital da França é Paris.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a capital da França? Use as informações contidas nos documentos."
+      },
+      {
+        "id": "qa_example_3",
+        "type": "general",
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "context": {
+          "sentences": [
+            ["'Dom Quixote' foi escrito por Miguel de Cervantes, um dos escritores mais importantes da literatura espanhola."],
+            ["William Shakespeare é conhecido por suas obras como 'Hamlet' e 'Romeu e Julieta'."],
+            ["Leo Tolstoy é o autor de 'Guerra e Paz' e 'Anna Karenina'."]
+          ],
+          "title": ["literatura", "literatura", "literatura"]
+        },
+        "oracle_context": "'Dom Quixote' foi escrito por Miguel de Cervantes, um dos escritores mais importantes da literatura espanhola.",
+        "cot_answer": "assistant: Para responder à pergunta, precisamos identificar o autor de 'Dom Quixote'. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"'Dom Quixote' foi escrito por Miguel de Cervantes, um dos escritores mais importantes da literatura espanhola.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que o autor de 'Dom Quixote' é Miguel de Cervantes.\n\n<ANSWER>: O autor de 'Dom Quixote' é Miguel de Cervantes.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quem escreveu 'Dom Quixote'? Use as informações contidas nos documentos."
+      }
+    ]
+  }
+  

@@ -1,0 +1,290 @@
+[
+    {
+        "id": "qa_example_1",
+        "type": "direito",
+        "question": "Qual é a finalidade da Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."],
+                ["A Revolução Industrial foi um período de transição para novos processos de fabricação na Europa e nos Estados Unidos, ocorrendo aproximadamente entre 1760 e 1840."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "história", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar a finalidade da Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a finalidade da Lei de Introdução às Normas do Direito Brasileiro é disciplinar as normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n<RESPOSTA>: A finalidade da Lei de Introdução às Normas do Direito Brasileiro é disciplinar as normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a finalidade da Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_2",
+        "type": "direito",
+        "question": "Quais são as principais características da Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["Contém dezenove artigos, enquanto a primitiva continha vinte e um."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["As mudanças climáticas têm causado um aumento significativo na frequência e intensidade de eventos climáticos extremos, como furacões, secas e enchentes."]
+            ],
+            "title": ["direito", "direito", "clima"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar as principais características da Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as principais características da Lei de Introdução às Normas do Direito Brasileiro são regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia global da ordem jurídica, não admitindo o erro de direito.\n\n<RESPOSTA>: As principais características da Lei de Introdução às Normas do Direito Brasileiro são regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia global da ordem jurídica, não admitindo o erro de direito.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as principais características da Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_3",
+        "type": "direito",
+        "question": "Qual é a aplicação da Lei de Introdução às Normas do Direito Brasileiro no direito penal e tributário?",
+        "context": {
+            "sentences": [
+                ["O direito penal admite a analogia somente in bonam partem."],
+                ["E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "O direito penal admite a analogia somente in bonam partem. E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar a aplicação da Lei de Introdução às Normas do Direito Brasileiro no direito penal e tributário. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"O direito penal admite a analogia somente in bonam partem. E o Código Tributário Nacional admite a analogia como critério de hermenêutica, com a ressalva de que não poderá resultar na exigência de tributo não previsto em lei (art. 108, § 1º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a aplicação da Lei de Introdução às Normas do Direito Brasileiro no direito penal é limitada, admitindo a analogia somente in bonam partem, enquanto no direito tributário, a analogia é admitida como critério de hermenêutica, mas não pode resultar na exigência de tributo não previsto em lei.\n\n<RESPOSTA>: No direito penal, a Lei de Introdução às Normas do Direito Brasileiro admite a analogia somente in bonam partem, enquanto no direito tributário, a analogia é admitida como critério de hermenêutica, mas não pode resultar na exigência de tributo não previsto em lei.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é a aplicação da Lei de Introdução às Normas do Direito Brasileiro no direito penal e tributário? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_4",
+        "type": "direito",
+        "question": "Como a Lei de Introdução às Normas do Direito Brasileiro aborda a analogia, os costumes e os princípios gerais do direito?",
+        "context": {
+            "sentences": [
+                ["Assim, o dispositivo que manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos (art. 4º) aplica-se a todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "Assim, o dispositivo que manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos (art. 4º) aplica-se a todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar como a Lei de Introdução às Normas do Direito Brasileiro aborda a analogia, os costumes e os princípios gerais do direito. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"Assim, o dispositivo que manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos (art. 4º) aplica-se a todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos em todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito.\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro manda aplicar a analogia, os costumes e os princípios gerais do direito aos casos omissos em todo o ordenamento jurídico, exceto ao direito penal e ao direito tributário, que contêm normas específicas a esse respeito.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a Lei de Introdução às Normas do Direito Brasileiro aborda a analogia, os costumes e os princípios gerais do direito? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_5",
+        "type": "direito",
+        "question": "Qual é o papel da Lei de Introdução às Normas do Direito Brasileiro na certeza e estabilidade do ordenamento jurídico?",
+        "context": {
+            "sentences": [
+                ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar o papel da Lei de Introdução às Normas do Direito Brasileiro na certeza e estabilidade do ordenamento jurídico. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que o papel da Lei de Introdução às Normas do Direito Brasileiro é garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.\n\n<RESPOSTA>: O papel da Lei de Introdução às Normas do Direito Brasileiro é garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual é o papel da Lei de Introdução às Normas do Direito Brasileiro na certeza e estabilidade do ordenamento jurídico? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_6",
+        "type": "direito",
+        "question": "O que é a Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar o que é a Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas que disciplinam as próprias normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas que disciplinam as próprias normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: O que é a Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_7",
+        "type": "direito",
+        "question": "Quais são as funções da Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["A Revolução Industrial foi um período de transição para novos processos de fabricação na Europa e nos Estados Unidos, ocorrendo aproximadamente entre 1760 e 1840."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."]
+            ],
+            "title": ["direito", "história", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar as funções da Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as funções da Lei de Introdução às Normas do Direito Brasileiro são regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia global da ordem jurídica, não admitindo o erro de direito.\n\n<RESPOSTA>: As funções da Lei de Introdução às Normas do Direito Brasileiro são regular a vigência e a eficácia das normas jurídicas, fornecer critérios de hermenêutica, estabelecer mecanismos de integração de normas e garantir a eficácia global da ordem jurídica, não admitindo o erro de direito.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as funções da Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_8",
+        "type": "direito",
+        "question": "Quais são as fontes formais do direito mencionadas na Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro revogou a antiga, promulgada simultaneamente com o Código Civil, substituindo-a em todo o seu conteúdo."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar as fontes formais do direito mencionadas na Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"São consideradas fontes formais do direito a lei, a analogia, o costume e os princípios gerais de direito (arts. 4º da LINDB e 126 do CPC); e não formais a doutrina e a jurisprudência.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as fontes formais do direito mencionadas na Lei de Introdução às Normas do Direito Brasileiro são a lei, a analogia, o costume e os princípios gerais de direito, enquanto as fontes não formais são a doutrina e a jurisprudência.\n\n<RESPOSTA>: As fontes formais do direito mencionadas na Lei de Introdução às Normas do Direito Brasileiro são a lei, a analogia, o costume e os princípios gerais de direito, enquanto as fontes não formais são a doutrina e a jurisprudência.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as fontes formais do direito mencionadas na Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_9",
+        "type": "direito",
+        "question": "Quais são as normas que a Lei de Introdução às Normas do Direito Brasileiro se destina a regular?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar quais são as normas que a Lei de Introdução às Normas do Direito Brasileiro se destina a regular. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é um conjunto de normas sobre normas, visto que disciplina as próprias normas jurídicas, determinando o seu modo de aplicação e entendimento, no tempo e no espaço.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro se destina a regular as próprias normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro se destina a regular as próprias normas jurídicas, determinando seu modo de aplicação e entendimento no tempo e no espaço.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as normas que a Lei de Introdução às Normas do Direito Brasileiro se destina a regular? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_10",
+        "type": "direito",
+        "question": "Qual a importância da Lei de Introdução às Normas do Direito Brasileiro para a certeza e estabilidade do ordenamento jurídico?",
+        "context": {
+            "sentences": [
+                ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar a importância da Lei de Introdução às Normas do Direito Brasileiro para a certeza e estabilidade do ordenamento jurídico. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a importância da Lei de Introdução às Normas do Direito Brasileiro é garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.\n\n<RESPOSTA>: A importância da Lei de Introdução às Normas do Direito Brasileiro é garantir a eficácia global da ordem jurídica, não admitindo o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Qual a importância da Lei de Introdução às Normas do Direito Brasileiro para a certeza e estabilidade do ordenamento jurídico? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_11",
+        "type": "direito",
+        "question": "Como a Lei de Introdução às Normas do Direito Brasileiro se relaciona com o direito internacional privado?",
+        "context": {
+            "sentences": [
+                ["O conteúdo desse verdadeiro Código de Normas extravasa o âmbito do direito civil por abranger princípios que regem a aplicação das normas de direito privado e de direito público no tempo e no espaço (arts. 1º a 6º) e por conter normas de direito internacional privado (arts. 7º a 19)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "O conteúdo desse verdadeiro Código de Normas extravasa o âmbito do direito civil por abranger princípios que regem a aplicação das normas de direito privado e de direito público no tempo e no espaço (arts. 1º a 6º) e por conter normas de direito internacional privado (arts. 7º a 19).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar como a Lei de Introdução às Normas do Direito Brasileiro se relaciona com o direito internacional privado. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"O conteúdo desse verdadeiro Código de Normas extravasa o âmbito do direito civil por abranger princípios que regem a aplicação das normas de direito privado e de direito público no tempo e no espaço (arts. 1º a 6º) e por conter normas de direito internacional privado (arts. 7º a 19).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro se relaciona com o direito internacional privado por conter normas específicas que regem sua aplicação (arts. 7º a 19).\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro se relaciona com o direito internacional privado por conter normas específicas que regem sua aplicação (arts. 7º a 19).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a Lei de Introdução às Normas do Direito Brasileiro se relaciona com o direito internacional privado? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_12",
+        "type": "direito",
+        "question": "Quais são os critérios de hermenêutica fornecidos pela Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar os critérios de hermenêutica fornecidos pela Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19); b) fornecer critérios de hermenêutica (art. 5º); c) estabelecer mecanismos de integração de normas, quando houver lacunas (art. 4º); d) garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que os critérios de hermenêutica fornecidos pela Lei de Introdução às Normas do Direito Brasileiro estão contidos no art. 5º.\n\n<RESPOSTA>: Os critérios de hermenêutica fornecidos pela Lei de Introdução às Normas do Direito Brasileiro estão contidos no art. 5º.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são os critérios de hermenêutica fornecidos pela Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_13",
+        "type": "direito",
+        "question": "Como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no tempo?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no tempo. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no tempo ao regular sua vigência e eficácia e ao apresentar soluções para o conflito de normas no tempo (art. 6º).\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no tempo ao regular sua vigência e eficácia e ao apresentar soluções para o conflito de normas no tempo (art. 6º).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no tempo? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_14",
+        "type": "direito",
+        "question": "Como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no espaço?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no espaço. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro é, como o próprio nome indica, aplicável a toda ordenação jurídica, pois tem as funções de: a) regular a vigência e a eficácia das normas jurídicas (arts. 1º e 2º), apresentando soluções ao conflito de normas no tempo (art. 6º) e no espaço (arts. 7º a 19).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no espaço ao regular sua vigência e eficácia e ao apresentar soluções para o conflito de normas no espaço (arts. 7º a 19).\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no espaço ao regular sua vigência e eficácia e ao apresentar soluções para o conflito de normas no espaço (arts. 7º a 19).",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a Lei de Introdução às Normas do Direito Brasileiro aborda a aplicação das normas no espaço? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_15",
+        "type": "direito",
+        "question": "Quais são as normas de direito internacional privado contidas na Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém normas de direito internacional privado (arts. 7º a 19)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A Lei de Introdução às Normas do Direito Brasileiro contém normas de direito internacional privado (arts. 7º a 19).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar quais são as normas de direito internacional privado contidas na Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A Lei de Introdução às Normas do Direito Brasileiro contém normas de direito internacional privado (arts. 7º a 19).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as normas de direito internacional privado contidas na Lei de Introdução às Normas do Direito Brasileiro estão presentes nos artigos 7º a 19.\n\n<RESPOSTA>: As normas de direito internacional privado contidas na Lei de Introdução às Normas do Direito Brasileiro estão presentes nos artigos 7º a 19.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as normas de direito internacional privado contidas na Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_16",
+        "type": "direito",
+        "question": "Como a Lei de Introdução às Normas do Direito Brasileiro garante a eficácia global da ordem jurídica?",
+        "context": {
+            "sentences": [
+                ["Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º)."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).",
+        "cot_answer": "Para responder à pergunta, precisamos identificar como a Lei de Introdução às Normas do Direito Brasileiro garante a eficácia global da ordem jurídica. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"Garantir não só a eficácia global da ordem jurídica, não admitindo o erro de direito (art. 3º) que a comprometeria, mas também a certeza, a segurança e estabilidade do ordenamento, preservando as situações consolidadas em que o interesse individual prevalece (art. 6º).\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a Lei de Introdução às Normas do Direito Brasileiro garante a eficácia global da ordem jurídica ao não admitir o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.\n\n<RESPOSTA>: A Lei de Introdução às Normas do Direito Brasileiro garante a eficácia global da ordem jurídica ao não admitir o erro de direito, bem como assegurar a certeza, a segurança e a estabilidade do ordenamento jurídico, preservando as situações consolidadas em que o interesse individual prevalece.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Como a Lei de Introdução às Normas do Direito Brasileiro garante a eficácia global da ordem jurídica? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_17",
+        "type": "direito",
+        "question": "Quais são as mudanças introduzidas pela Lei n. 12.376, de 30 de dezembro de 2010?",
+        "context": {
+            "sentences": [
+                ["A mencionada Lei n. 12.376, de 30 de dezembro de 2010, com o objetivo de ampliar o campo de aplicação da Lei de Introdução ao Código Civil, como proclama o seu art. 1º, preceitua no art. 2º que “A ementa do Decreto-Lei n. 4.657, de 4 de setembro de 1942, passa a vigorar com a seguinte redação: ‘Lei de Introdução às Normas do Direito Brasileiro’.”"],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "A mencionada Lei n. 12.376, de 30 de dezembro de 2010, com o objetivo de ampliar o campo de aplicação da Lei de Introdução ao Código Civil, como proclama o seu art. 1º, preceitua no art. 2º que “A ementa do Decreto-Lei n. 4.657, de 4 de setembro de 1942, passa a vigorar com a seguinte redação: ‘Lei de Introdução às Normas do Direito Brasileiro’.”",
+        "cot_answer": "Para responder à pergunta, precisamos identificar as mudanças introduzidas pela Lei n. 12.376, de 30 de dezembro de 2010. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"A mencionada Lei n. 12.376, de 30 de dezembro de 2010, com o objetivo de ampliar o campo de aplicação da Lei de Introdução ao Código Civil, como proclama o seu art. 1º, preceitua no art. 2º que “A ementa do Decreto-Lei n. 4.657, de 4 de setembro de 1942, passa a vigorar com a seguinte redação: ‘Lei de Introdução às Normas do Direito Brasileiro’.”\"\n##end_quote##\n\nA partir desta frase, podemos inferir que a principal mudança introduzida pela Lei n. 12.376, de 30 de dezembro de 2010, foi a alteração do nome da Lei de Introdução ao Código Civil para Lei de Introdução às Normas do Direito Brasileiro.\n\n<RESPOSTA>: A principal mudança introduzida pela Lei n. 12.376, de 30 de dezembro de 2010, foi a alteração do nome da Lei de Introdução ao Código Civil para Lei de Introdução às Normas do Direito Brasileiro.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as mudanças introduzidas pela Lei n. 12.376, de 30 de dezembro de 2010? Use as informações contidas nos documentos."
+    },
+    {
+        "id": "qa_example_18",
+        "type": "direito",
+        "question": "Quais são as normas de sobredireito ou de apoio contidas na Lei de Introdução às Normas do Direito Brasileiro?",
+        "context": {
+            "sentences": [
+                ["Contém normas de sobredireito ou de apoio, podendo ser considerada um Código de Normas, por ter a lei como tema central."],
+                ["A Lei de Introdução às Normas do Direito Brasileiro contém dezenove artigos."],
+                ["O direito penal admite a analogia somente in bonam partem."]
+            ],
+            "title": ["direito", "direito", "direito"]
+        },
+        "oracle_context": "Contém normas de sobredireito ou de apoio, podendo ser considerada um Código de Normas, por ter a lei como tema central.",
+        "cot_answer": "Para responder à pergunta, precisamos identificar quais são as normas de sobredireito ou de apoio contidas na Lei de Introdução às Normas do Direito Brasileiro. O contexto fornece esta informação diretamente.\n\n##begin_quote##\n\"Contém normas de sobredireito ou de apoio, podendo ser considerada um Código de Normas, por ter a lei como tema central.\"\n##end_quote##\n\nA partir desta frase, podemos inferir que as normas de sobredireito ou de apoio contidas na Lei de Introdução às Normas do Direito Brasileiro são aquelas que disciplinam a própria norma jurídica, determinando seu modo de aplicação e entendimento.\n\n<RESPOSTA>: As normas de sobredireito ou de apoio contidas na Lei de Introdução às Normas do Direito Brasileiro são aquelas que disciplinam a própria norma jurídica, determinando seu modo de aplicação e entendimento.",
+        "instruction": "Leia os documentos fornecidos e responda à pergunta: Quais são as normas de sobredireito ou de apoio contidas na Lei de Introdução às Normas do Direito Brasileiro? Use as informações contidas nos documentos."
+    }
+]
